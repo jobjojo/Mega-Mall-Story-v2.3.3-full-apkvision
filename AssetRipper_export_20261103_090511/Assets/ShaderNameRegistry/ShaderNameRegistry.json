@@ -1,0 +1,5020 @@
+{
+	"m_HideFlags": 0,
+	"m_PreloadShaders": false,
+	"m_Shaders": {
+		"m_ObjectToName": [
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 17 },
+				"Value": "Hidden/InternalErrorShader"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 68 },
+				"Value": "Hidden/InternalClear"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 69 },
+				"Value": "Hidden/Internal-Colored"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 70 },
+				"Value": "Hidden/Internal-Loading"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 10101 },
+				"Value": "GUI/Text Shader"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 10755 },
+				"Value": "Hidden/FrameDebuggerRenderTargetDisplay"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Diffuse Fast"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Diffuse Detail"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 6 },
+				"Value": "Legacy Shaders/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 7 },
+				"Value": "Legacy Shaders/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Parallax Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Parallax Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Self-Illumin/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Self-Illumin/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Self-Illumin/Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Self-Illumin/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Self-Illumin/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Self-Illumin/Parallax Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Self-Illumin/Parallax Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 19 },
+				"Value": "Hidden/Internal-StencilWrite"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Reflective/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Reflective/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Reflective/Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Reflective/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Reflective/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Reflective/Bumped Unlit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Reflective/Bumped VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Reflective/Parallax Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Reflective/Parallax Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Parallax Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Parallax Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Lightmapped/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Lightmapped/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Lightmapped/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Lightmapped/Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Lightmapped/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Standard (Specular setup)"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Standard"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Autodesk Interactive"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Cutout/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Cutout/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Cutout/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Cutout/Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Cutout/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 62 },
+				"Value": "Hidden/Internal-DepthNormalsTexture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Internal-PrePassLighting"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 64 },
+				"Value": "Hidden/Internal-ScreenSpaceShadows"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 65 },
+				"Value": "Hidden/Internal-CombineDepthNormals"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 66 },
+				"Value": "Hidden/BlitCopy"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 67 },
+				"Value": "Hidden/BlitCopyDepth"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 68 },
+				"Value": "Hidden/ConvertTexture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 69 },
+				"Value": "Hidden/Internal-DeferredShading"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 74 },
+				"Value": "Hidden/Internal-DeferredReflections"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 75 },
+				"Value": "Hidden/Internal-MotionVectors"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Decal"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "FX/Flare"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 102 },
+				"Value": "Hidden/Internal-Flare"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Skybox/Cubemap"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Skybox/6 Sided"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 105 },
+				"Value": "Hidden/Internal-Halo"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Skybox/Procedural"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 107 },
+				"Value": "Hidden/BlitCopyWithDepth"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Skybox/Panoramic"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 109 },
+				"Value": "Hidden/BlitToDepth"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 110 },
+				"Value": "Hidden/BlitToDepth_MSAA"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 111 },
+				"Value": "Hidden/BlitCopyHDRTonemap"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/BlitCopyHDRTonemappedToHDRTonemap"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 113 },
+				"Value": "Hidden/Internal-DebugPattern"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/BlitCopyHDRTonemappedToSDR"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Particles/Additive"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Particles/~Additive-Multiply"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Particles/Additive (Soft)"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Particles/Alpha Blended"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Particles/Multiply"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Particles/Multiply (Double)"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Particles/Alpha Blended Premultiply"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Particles/VertexLit Blended"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Particles/Anim Alpha Blended"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Particles/Standard Surface"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Particles/Standard Unlit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 9000 },
+				"Value": "Hidden/Internal-GUITextureClip"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 9001 },
+				"Value": "Hidden/Internal-GUITextureClipText"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 9002 },
+				"Value": "Hidden/Internal-GUITexture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 9003 },
+				"Value": "Hidden/Internal-GUITextureBlit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 9004 },
+				"Value": "Hidden/Internal-GUIRoundedRect"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 9007 },
+				"Value": "Hidden/Internal-GUIRoundedRectWithColorPerBorder"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 9100 },
+				"Value": "Hidden/Internal-UIRDefault"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 9101 },
+				"Value": "Hidden/Internal-UIRAtlasBlitCopy"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 9102 },
+				"Value": "Hidden/Internal-UIRDefaultWorld"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/UIElements/EditorUIE"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/GraphView/GraphViewUIE"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Internal-UIE-ColorConversionBlit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/GTF/GTFUIE"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Terrain/Utilities"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Details/Vertexlit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Details/WavingDoublePass"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Details/BillboardWavingDoublePass"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Splatmap/Diffuse-AddPass"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Splatmap/Diffuse-Base"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/Terrain/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Splatmap/Diffuse-BaseGen"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/BillboardTree"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Tree Soft Occlusion Bark Rendertex"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/Tree Soft Occlusion Bark"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Tree Soft Occlusion Leaves Rendertex"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/Tree Soft Occlusion Leaves"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Legacy Shaders/Transparent/Cutout/Soft Edge Unlit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/CameraFacingBillboardTree"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/Tree Creator Bark"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/Tree Creator Leaves"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Tree Creator Bark Rendertex"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Tree Creator Leaves Rendertex"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Tree Creator Bark Optimized"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Tree Creator Leaves Optimized"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/Tree Creator Leaves Fast"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Tree Creator Leaves Fast Optimized"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Tree Creator Albedo Rendertex"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Nature/Tree Creator Normal Rendertex"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/Terrain/Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Splatmap/Specular-AddPass"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Splatmap/Specular-Base"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/Terrain/Standard"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Splatmap/Standard-AddPass"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Splatmap/Standard-Base"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/Splatmap/Standard-BaseGen"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Skybox"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/VertexLit"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Bumped Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Bumped Specular"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Bumped Specular (1 Directional Realtime Light)"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/VertexLit (Only Directional Lights)"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Unlit (Supports Lightmap)"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Particles/Additive"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Particles/Alpha Blended"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Particles/VertexLit Blended"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Mobile/Particles/Multiply"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Unlit/Transparent"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Unlit/Transparent Cutout"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Unlit/Texture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 4 },
+				"Value": "Sprites/Default"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Unlit/Color"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 10757 },
+				"Value": "Sprites/Mask"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/Unlit/Transparent"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/Unlit/Detail"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/Unlit/Text"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/Unlit/Text Detail"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/Lit/Transparent"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/Lit/Bumped"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/Lit/Detail"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/Lit/Refraction"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/Lit/Refraction Detail"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 10770 },
+				"Value": "UI/Default"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 10782 },
+				"Value": "UI/Default Font"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "UI/DefaultETC1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/UI/CompositeOverdraw"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/UI/Overdraw"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Sprites/Diffuse"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/SpeedTree"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/SpeedTree Billboard"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/SpeedTree8"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Nature/SpeedTree9"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/GIDebug/TextureUV"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/GIDebug/ShowLightMask"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/GIDebug/UV1sAsPositions"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/GIDebug/VertexColors"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 15104 },
+				"Value": "Hidden/CubeBlur"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 15105 },
+				"Value": "Hidden/CubeCopy"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 15106 },
+				"Value": "Hidden/CubeBlend"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "VR/SpatialMapping/Occlusion"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "VR/SpatialMapping/Wireframe"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 15304 },
+				"Value": "Hidden/VR/BlitTexArraySlice"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/VR/Internal-VRDistortion"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/VR/BlitTexArraySliceToDepth"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/VR/BlitTexArraySliceToDepth_MSAA"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 15308 },
+				"Value": "Hidden/Internal-ODSWorldTexture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 15309 },
+				"Value": "Hidden/Internal-CubemapToEquirect"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 15312 },
+				"Value": "Hidden/VR/BlitFromTex2DToTexArraySlice"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/VR/BlitCopyHDRTonemapTexArraySlice"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/VR/BlitCopyHDRTonemappedToHDRTonemapTexArraySlice"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/VR/BlitCopyHDRTonemappedToSDRTexArraySlice"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 16000 },
+				"Value": "Hidden/VideoComposite"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 16001 },
+				"Value": "Hidden/VideoDecode"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 16002 },
+				"Value": "Hidden/VideoDecodeOSX"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 16003 },
+				"Value": "Hidden/VideoDecodeAndroid"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/Compositing"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/PaintHeight"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/HeightBlitCopy"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/GenerateNormalmap"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/TerrainLayerUtils"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/BrushPreview"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/CrossBlendNeighbors"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TerrainEngine/TerrainBlitCopyZWrite"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TextCore/Distance Field"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 19011 },
+				"Value": "Hidden/TextCore/Distance Field SSD"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 0 },
+				"Value": "Hidden/TextCore/Sprite"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clear/ColorDepth"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Texture-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Texture-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTextureBlend-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShape-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/TextureBlend-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTextureBlend-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTexture-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Shape-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Clip/Texture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clear/ColorStencil"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTextureBlend-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShapeBlend-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Texture-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTexture-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Texture-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedShape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShapeBlend-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShape-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedTexture-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ShapeBlend-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Shape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Shape-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlendOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/TextureOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedShape-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Shape-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShapeBlend-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlendOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTextureOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/TextureBlend"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlendOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTexture-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ShapeBlend"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clip/Shape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ShapeBlend-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Mask/Texture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ShapeBlend-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlendOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Shape-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTextureBlend-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clear/Color"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Texture-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTexture-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedTexture-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Shape-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedShape-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTexture-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/TextureBlend-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Texture-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedTexture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTextureBlend-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShapeOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTexture-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Mask/Texture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Shape-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTexture-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Shape-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Shape-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedShape-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Texture-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlendOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTextureOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShape-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShapeBlend-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Texture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Shape-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Shape-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedShape-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTextureBlend-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clip/Texture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedShape-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Shape-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clear/DepthStencil"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/TextureBlend-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ShapeBlend-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Mask/Shape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/TextureBlend-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedTexture-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Texture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ShapeOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedShape-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Clip/Shape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clear/Depth"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Texture-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedShape-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShapeOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clear/Stencil"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Shape-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlendOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShape-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlendOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShape-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/TextureBlend-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-OpaqueOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clear/ColorDepthStencil"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTexture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ShapeOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Clip/Clear"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlendOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Texture-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Shape-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ShapeBlend-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/TextureOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Texture-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Texture-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ShapeBlend-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTextureBlend-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShapeBlend"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShapeBlend-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShape-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShapeBlend-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Texture-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/TextureBlend-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedTextureBlend"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub0-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedTexture-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/TextureBlend-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add1-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Texture-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub1OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedTexture-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add1-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Sub0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Opaque-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add0-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add2OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Shape-Sub2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub2-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShapeBlend-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedTexture-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add0OT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ShapeBlend-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add1-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Hidden/BlurEffectConeTap"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Opaque-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedShape-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/ClippedShape-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub2-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/Texture-Add0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Unc/ClippedTexture-Sub0"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque-Trans-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Trans-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub2-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Mask/Shape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add0-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Shape-Add1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub1-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShape-Sub0OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Opaque-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-Add2-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Sub1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Add0-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub0-TransOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add0-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Add1-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ShapeBlend-Sub1-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/ClippedTexture-TransOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedShapeBlend-Opaque-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/GUI/Shape"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Add2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Alpha"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/TextureBlend-Add2-AlphaOT2"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Sub2OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-OpaqueOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Texture-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Unc/Texture-Sub1OT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTexture-Add2-Trans"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/ClippedTextureBlend-Trans-AlphaOT1"
+			},
+			{
+				"Key": { "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				"Value": "Kairo/Shape-Opaque"
+			}
+		]
+	}
+}

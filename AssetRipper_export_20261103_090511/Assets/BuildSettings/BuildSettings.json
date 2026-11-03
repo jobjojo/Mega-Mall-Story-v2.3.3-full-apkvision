@@ -1,0 +1,28 @@
+{
+	"m_AuthToken": "57ff7129a765e1d02b249c48391d1725ae56f97d3b71081722e9e273a49f069fc147b9378381f5dc",
+	"m_BuildTags": [],
+	"m_EnabledVRDevices": [],
+	"m_EnableDynamicBatching": true,
+	"m_GraphicsAPIs": [
+		8
+	],
+	"m_HasAdvancedVersion": true,
+	"m_HasClusterRendering": false,
+	"m_HasLocalLightShadows": true,
+	"m_HasPROVersion": true,
+	"m_HasPublishingRights": false,
+	"m_HasShadows": true,
+	"m_HasSoftShadows": true,
+	"m_HideFlags": 0,
+	"m_IsEducationalBuild": false,
+	"m_IsEmbedded": false,
+	"m_IsNoWatermarkBuild": true,
+	"m_IsPrototypingBuild": false,
+	"m_IsTrial": false,
+	"m_PreloadedPlugins": [],
+	"m_Scenes": [
+		"Assets/Scenes/main.unity"
+	],
+	"m_UsesOnMouseEvents": false,
+	"m_Version": "2022.3.62f1"
+}

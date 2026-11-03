@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>mscorlib</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>14.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <NoStandardLib>True</NoStandardLib>
+    <AppendTargetFrameworkToOutputPath>False</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>False</AppendRuntimeIdentifierToOutputPath>
+    <DisableImplicitConfigurationDefines>True</DisableImplicitConfigurationDefines>
+    <DisableImplicitFrameworkDefines>True</DisableImplicitFrameworkDefines>
+    <DisableImplicitFrameworkReferences>True</DisableImplicitFrameworkReferences>
+    <DisableTransitiveProjectReferences>True</DisableTransitiveProjectReferences>
+    <DisableImplicitNamespaceImports>True</DisableImplicitNamespaceImports>
+    <EnsureRuntimePackageDependencies>False</EnsureRuntimePackageDependencies>
+    <AddAdditionalExplicitAssemblyReferences>False</AddAdditionalExplicitAssemblyReferences>
+    <RuntimeMetadataVersion>v4.0.30319</RuntimeMetadataVersion>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup />
+</Project>

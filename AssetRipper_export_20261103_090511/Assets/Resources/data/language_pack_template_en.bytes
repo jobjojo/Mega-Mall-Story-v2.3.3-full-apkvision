@@ -1,0 +1,2553 @@
+﻿0,apart_area,0-1,Res. Area
+1,apart_area,1-1,Mall
+2,apart_area,2-1,Office Area
+3,apart_area,3-1,Park
+4,apart_project2,0-1,Small Mall
+5,apart_project2,0-5&7-5,Make your mall bigger.
+6,apart_project2,1-1,Bus Stop
+7,apart_project2,1-5,Research a bus stop.
+8,apart_project2,2-1,Escalators
+9,apart_project2,2-5,Research escalators.
+10,apart_project2,3-1,Medium Mall
+11,apart_project2,3-5,Expand your mall horizontally.
+12,apart_project2,4-1,Elevators
+13,apart_project2,4-5,Research elevators.
+14,apart_project2,5-1,Underground
+15,apart_project2,5-5,Research basement floors.
+16,apart_project2,6-1,Subway
+17,apart_project2,6-5,Research a subway station.
+18,apart_project2,7-1,Mega Mall
+19,apart_project2,8-1,Observation Deck
+20,apart_project2,8-5,Research an observation deck.
+21,apart_project2,9-1,Planetarium
+22,apart_project2,9-5,Research a planetarium.
+23,apart_project2,10-1,Heliport
+24,apart_project2,10-5,Research a heliport.
+25,apart_project2,11-1&13-1,Bungalow
+26,apart_project2,11-5&13-5,Build a small house.
+27,apart_project2,11-7,Waiter
+28,apart_project2,12-1,House
+29,apart_project2,12-5,Build a house.
+30,apart_project2,12-7&29-7,Osteopath
+31,apart_project2,13-7,Designer
+32,apart_project2,14-1,Housing
+33,apart_project2,14-5&17-5,Build housing.
+34,apart_project2,14-7,Journalist
+35,apart_project2,15-1&16-1,Apartments
+36,apart_project2,15-5&16-5,Build an apartment building.
+37,apart_project2,15-7,Cameraman
+38,apart_project2,16-7,Soccer Plyr
+39,apart_project2,17-1,Res. Area
+40,apart_project2,17-7,Comic Artist
+41,apart_project2,18-1&37-1&56-1,Walkway
+42,apart_project2,18-5&24-5&37-5&48-5&56-5&61-5,Build a sheltered walkway.
+43,apart_project2,19-1&23-1,Condos
+44,apart_project2,19-5&23-5,Build condominiums.
+45,apart_project2,19-7,Student
+46,apart_project2,20-1,Lux Housing
+47,apart_project2,20-5,Build luxury housing.
+48,apart_project2,20-7,Doctor
+49,apart_project2,21-1&27-1&40-1&44-1&59-1&62-1,Stimulus
+50,apart_project2,21-5&27-5&40-5&44-5&59-5&62-5,Stimulate the economy.
+51,apart_project2,22-1,School
+52,apart_project2,22-5,Build a school.
+53,apart_project2,22-7,Teacher
+54,apart_project2,23-7,Consultant
+55,apart_project2,24-1&48-1&61-1,Big Walkway
+56,apart_project2,25-1&29-1,Big Condos
+57,apart_project2,25-5&29-5,Build big condominiums.
+58,apart_project2,25-7,Stuntman
+59,apart_project2,26-1,Mansion
+60,apart_project2,26-5,Build a mansion.
+61,apart_project2,26-7,Farmer
+62,apart_project2,28-1,College
+63,apart_project2,28-5,Build a college.
+64,apart_project2,28-7,Ninja
+65,apart_project2,30-1&31-1,Parking
+66,apart_project2,30-5&31-5,Build a parking lot.
+67,apart_project2,30-7,Executive
+68,apart_project2,31-7,Secretary
+69,apart_project2,32-1&33-1&36-1,MP Building
+70,apart_project2,32-5&33-5&36-5,Build a multi-purpose building.
+71,apart_project2,32-7,Butler
+72,apart_project2,33-7,Musician
+73,apart_project2,34-1&35-1,Office Building
+74,apart_project2,34-5&35-5,Build an office building.
+75,apart_project2,34-7,Programmer
+76,apart_project2,35-7,Gentleman
+77,apart_project2,36-7,Singer
+78,apart_project2,38-1&42-1,Building
+79,apart_project2,38-5&42-5,Build a building.
+80,apart_project2,38-7,Celebrity
+81,apart_project2,39-1&41-1,Commercial Building
+82,apart_project2,39-5&41-5,Build a commercial building.
+83,apart_project2,39-7,Chef
+84,apart_project2,41-7,Astronaut
+85,apart_project2,42-7,Critic
+86,apart_project2,43-1,Skyscraper
+87,apart_project2,43-5,Build a skyscraper.
+88,apart_project2,43-7,Debugger
+89,apart_project2,45-1,Hotel
+90,apart_project2,45-5,Build a hotel.
+91,apart_project2,45-7,Saleswoman
+92,apart_project2,46-1,Luxury Building
+93,apart_project2,46-5,Build a luxury building.
+94,apart_project2,46-7,Wrestler
+95,apart_project2,47-1,Castle
+96,apart_project2,47-5,Build a castle.
+97,apart_project2,47-7,Negotiator
+98,apart_project2,49-1&50-1&51-1,Land Prep
+99,apart_project2,49-5&50-5&51-5,Fund land preparation.
+100,apart_project2,49-7,Waitress
+101,apart_project2,50-7,Maid
+102,apart_project2,51-7,Fisherman
+103,apart_project2,52-1&54-1,Playground
+104,apart_project2,52-5&54-5,Build a playground.
+105,apart_project2,52-7,Nurse
+106,apart_project2,53-1,Pasture
+107,apart_project2,53-5,Build a pasture.
+108,apart_project2,53-7,Cheerleader
+109,apart_project2,54-7,Swimmer
+110,apart_project2,55-1,Beach
+111,apart_project2,55-5,Build a beach.
+112,apart_project2,55-7,Nun
+113,apart_project2,57-1,Circus
+114,apart_project2,57-5,Build a circus.
+115,apart_project2,57-7,Folk Singer
+116,apart_project2,58-1,Amusement Park
+117,apart_project2,58-5,Build an amusement park.
+118,apart_project2,58-7,Young CEO
+119,apart_project2,60-1,Stadium
+120,apart_project2,60-5,Build a stadium.
+121,apart_project2,60-7,Housewife
+122,apart_project2,63-1,Kairo Building
+123,apart_project2,63-5,Build the Kairo Building.
+124,apart_project2,63-7,Myst. Robot
+125,clerk,0-1,Grace Hanna
+126,clerk,0-13&3-13&4-13&7-13&10-13&13-13,Service with a smile = hearts.
+127,clerk,1-1,Genna Foss
+128,clerk,1-13&5-13&8-13&11-13&14-13&18-13,Improves Quality of some stores.
+129,clerk,2-1,Otis Grulke
+130,clerk,2-13&6-13&9-13&12-13&15-13&16-13&17-13&19-13&20-13&21-13,Said to be pretty average.
+131,clerk,3-1,Geneva Vargas
+132,clerk,4-1,Ashly Cagney
+133,clerk,5-1,Dexter Glatz
+134,clerk,6-1,Allita Kohl
+135,clerk,7-1,Nicky Rovack
+136,clerk,8-1,Roy Askins
+137,clerk,9-1,Mario Opiela
+138,clerk,10-1,Raul Roman
+139,clerk,11-1,Luann Kahn
+140,clerk,12-1,Emily McNabb
+141,clerk,13-1,Derick Dinkel
+142,clerk,14-1,Kirk Stupp
+143,clerk,15-1,Pamela Jessen
+144,clerk,16-1,Karen Harren
+145,clerk,17-1,Nicole Gozman
+146,clerk,18-1,Keith Wardon
+147,clerk,19-1,Samuel Priebe
+148,clerk,20-1,Barry Vires
+149,clerk,21-1,Elton Denny
+150,customer,0-1&0-2,Staff
+151,customer,1-1,Amy Jones
+152,customer,1-2&36-2&37-2,Student
+153,customer,1-12&2-12&3-12&4-12&5-12&6-12&7-12&8-12&9-12&10-12&11-12&12-12&13-12&14-12&15-12&16-12&17-12&18-12&19-12&20-12&21-12&22-12&23-12&24-12&25-12&26-12&27-12&28-12&29-12&30-12&31-12&32-12&33-12&34-12&35-12&36-12&37-12&38-12&39-12&40-12&41-12&42-12&43-12&44-12&45-12&46-12&47-12&48-12&49-12&50-12&51-12&52-12&53-12&54-12&55-12&56-12&57-12&58-12&59-12&60-12&61-12&62-12&63-12&64-12&65-12&66-12&67-12&68-12&69-12&70-12&71-12&72-12&73-12&74-12&75-12&76-12&77-12&78-12&79-12&80-12&81-12&82-12&83-12&84-12&85-12&86-12&87-12&88-12,Store Qual of
+154,customer,1-13&3-13,I like stores where you can buy groceries.
+155,customer,2-1,Ken Hays
+156,customer,2-2,Accountant
+157,customer,2-13&8-13&10-13&12-13,I like places where you can relax.
+158,customer,3-1,Cletus Munn
+159,customer,3-2,Farmer
+160,customer,4-1,May Gomez
+161,customer,4-2,Student
+162,customer,4-13,I like stores where you can buy toys.
+163,customer,5-1,Jim Maxwell
+164,customer,5-2,Waiter
+165,customer,5-13,I like having tea.
+166,customer,6-1,Kent Dellan
+167,customer,6-2,Executive
+168,customer,6-13,I like to be able to make phone calls.
+169,customer,7-1,Ryu Honda
+170,customer,7-2,Ramen Chef
+171,customer,7-13&14-13,I like places where you can have a meal.
+172,customer,8-1,Pablo P
+173,customer,8-2,Artist
+174,customer,9-1,Serena Lam
+175,customer,9-2,Voice Actor
+176,customer,9-13&15-13&24-13&47-13,I like stores with fancy clothes.
+177,customer,10-1,Ben Donner
+178,customer,10-2&66-2,Osteopath
+179,customer,11-1,Mabel Smith
+180,customer,11-2,Secretary
+181,customer,11-13,I like home goods, myself.
+182,customer,12-1,Gordon G
+183,customer,12-2,Trader
+184,customer,13-1,Blondie Cay
+185,customer,13-2,Waitress
+186,customer,13-13&38-13,I like supermarkets best.
+187,customer,14-1,Dan Green
+188,customer,14-2,Jeweler
+189,customer,15-1,Max Clay
+190,customer,15-2,Designer
+191,customer,16-1,Jeeves
+192,customer,16-2,Butler
+193,customer,16-13&17-13,I like places where you can have fun.
+194,customer,17-1,Hana Burger
+195,customer,17-2,Part-timer
+196,customer,18-1,Bunny Ford
+197,customer,18-2,Storyteller
+198,customer,18-13,I like seafood stores best.
+199,customer,19-1,Scoop Dodd
+200,customer,19-2,Journalist
+201,customer,19-13&32-13,I like bookstores the best.
+202,customer,20-1,Jack Hayes
+203,customer,20-2,TV Host
+204,customer,20-13,I like ticket outlets more than anything.
+205,customer,21-1,Yoyo Ha
+206,customer,21-2,Musician
+207,customer,21-13,I like cafes the best.
+208,customer,22-1,Pam Daily
+209,customer,22-2,Maid
+210,customer,22-13,Bakeries are my favorite.
+211,customer,23-1,Sneezy Hays
+212,customer,23-2,Cameraman
+213,customer,23-13,I like florists the best.
+214,customer,24-1,Tam Bruise
+215,customer,24-2,Actress
+216,customer,25-1,Dave Kato
+217,customer,25-2,Programmer
+218,customer,25-13,I like toy stores the best.
+219,customer,26-1,Jay Hooks
+220,customer,26-2,Fisherman
+221,customer,26-13,I like CD shops the best.
+222,customer,27-1,Soupy Dorn
+223,customer,27-2,Soup Chef
+224,customer,27-13,I like Chinese buffets the best.
+225,customer,28-1,Dave Beck
+226,customer,28-2,Soccer Plyr
+227,customer,28-13,I like cinemas the best.
+228,customer,29-1,Ray Coffer
+229,customer,29-2,Gentleman
+230,customer,29-13,I like butchers the best.
+231,customer,30-1,Alice Bee
+232,customer,30-2,Maid
+233,customer,30-13,I like candy stores best of all.
+234,customer,31-1,Ann Yuill
+235,customer,31-2,Cust Service
+236,customer,31-13,I like art supply stores.
+237,customer,32-1,Clementine
+238,customer,32-2,Comic Artist
+239,customer,33-1,Shay Crock
+240,customer,33-2,Apt. Mgmnt
+241,customer,33-13,I like cake shops best.
+242,customer,34-1,Mic Jackson
+243,customer,34-2,Singer
+244,customer,34-13,I like shoe stores best.
+245,customer,35-1,Jamie Lee
+246,customer,35-2,Nurse
+247,customer,35-13&43-13&71-13,I like clothing stores best.
+248,customer,36-1,Ronald Day
+249,customer,36-13,Fast food is my favorite.
+250,customer,37-1,Tiger Hoods
+251,customer,37-13,I like video game stores.
+252,customer,38-1,Caesar Murn
+253,customer,38-2,Celebrity
+254,customer,39-1,Betsy Fay
+255,customer,39-2,Cheerleader
+256,customer,39-13&72-13,I like cafeterias best.
+257,customer,40-1,Jim Franks
+258,customer,40-2,Mountaineer
+259,customer,40-13&73-13,I like dollar stores best.
+260,customer,41-1,Mick Roony
+261,customer,41-2,Child Actor
+262,customer,41-13,I like stationery stores, myself.
+263,customer,42-1,Andy Mays
+264,customer,42-2,Doctor
+265,customer,42-13,I like clinics best.
+266,customer,43-1,Cat Kidman
+267,customer,43-2,Model
+268,customer,44-1,Poppy Smith
+269,customer,44-2,Chef
+270,customer,44-13&75-13,I like PC stores best.
+271,customer,45-1,Festus Kay
+272,customer,45-2,Retired
+273,customer,45-13&77-13,I like steakhouses best.
+274,customer,46-1,Jenny Sein
+275,customer,46-2,Swimmer
+276,customer,46-13&78-13,I like convenience stores best.
+277,customer,47-1,Crystal Mann
+278,customer,47-2,Teacher
+279,customer,48-1,Sarah Hong
+280,customer,48-2,Astronaut
+281,customer,48-13&80-13,I like appliance stores best.
+282,customer,49-1,Sister Mary
+283,customer,49-2,Nun
+284,customer,49-13&61-13&81-13,I like fancy bistros best.
+285,customer,50-1,Toby Pots
+286,customer,50-2,Juggler
+287,customer,50-13,I like sushi bars best.\Tuna rolls are my favorite.
+288,customer,51-1,Dick Bando
+289,customer,51-2,Consultant
+290,customer,51-13,I like hair salons.
+291,customer,52-1,Miso Hosoda
+292,customer,52-2,Critic
+293,customer,52-13&64-13,I like video rental stores.
+294,customer,53-1,Clem Danes
+295,customer,53-2,Police Ofc.
+296,customer,53-13,I like lottery shops, myself.
+297,customer,54-1,Butch Pitt
+298,customer,54-2,Stuntman
+299,customer,54-13&65-13,I like jewelry stores.
+300,customer,55-1,Venus Winn
+301,customer,55-2,Debugger
+302,customer,55-13,I like fortune tellers best.
+303,customer,56-1,Mary Moon
+304,customer,56-2,Folk Singer
+305,customer,56-13&85-13,I like sushi bars best.
+306,customer,57-1,King Ackbar
+307,customer,57-2,Young CEO
+308,customer,57-13,I came to buy some games.\I like video game stores best.
+309,customer,58-1,Porky Feeny
+310,customer,58-2,Farmer
+311,customer,58-13&68-13,I like bowling alleys.
+312,customer,59-1,Mary Cats
+313,customer,59-2,Artist
+314,customer,59-13&88-13,I like spas best.
+315,customer,60-1,May Bee
+316,customer,60-2,Saleswoman
+317,customer,60-13,I like gourmet delis best.\I love to sample new items.
+318,customer,61-1,Mocha Latte
+319,customer,61-2,Artisan
+320,customer,62-1,Hen Penny
+321,customer,62-2,Foreman
+322,customer,62-13,I like casinos. I get so excited\I could just lay an egg!
+323,customer,63-1,Nekomaru
+324,customer,63-2,Ninja
+325,customer,63-13,I like pet shops best.\I'd like to get a ninja dog.
+326,customer,64-1,Hulk Grogan
+327,customer,64-2,Wrestler
+328,customer,65-1,Cindy Gray
+329,customer,65-2,Housewife
+330,customer,66-1,Ducky Bills
+331,customer,66-13&86-13,I like furniture best.
+332,customer,67-1,Jed Quacks
+333,customer,67-2,Rice Farmer
+334,customer,67-13&82-13,I like pet shops best.
+335,customer,68-1,Kettler UFO
+336,customer,68-2,Negotiator
+337,customer,69-1,Kairobot
+338,customer,69-2,Myst. Robot
+339,customer,69-13,Don't tell anybody, but…\I like lingerie stores.
+340,customer,70-1,Manny Cave
+341,customer,70-2,Skater
+342,customer,70-13,I like real estate best.
+343,customer,71-1,Jen Collins
+344,customer,71-2,Writer
+345,customer,72-1,Mark Sans
+346,customer,72-2,Hiker
+347,customer,73-1,Karen Heller
+348,customer,73-2,Witch
+349,customer,74-1,Claire Lune
+350,customer,74-2,Driver
+351,customer,74-13,I like boutiques more than anything.
+352,customer,75-1,Ray Keys
+353,customer,75-2,Pianist
+354,customer,76-1,Bearington
+355,customer,76-2,Music Ind.
+356,customer,76-13,I just love fountains.\They remind me of the woods.
+357,customer,77-1,Duke Higgs
+358,customer,77-2,Sniper
+359,customer,78-1,Indy Smith
+360,customer,78-2,Explorer
+361,customer,79-1,Gil Bates
+362,customer,79-2,Toddler
+363,customer,79-13,I love arcades.\I wish I could live in one!
+364,customer,80-1,Lucy Naiman
+365,customer,80-2,Novelist
+366,customer,81-1,Arnie Swan
+367,customer,81-2,Governor
+368,customer,82-1,Lenny Ling
+369,customer,82-2,Linguist
+370,customer,83-1,Sally Prin
+371,customer,83-2,CPA
+372,customer,83-13,I like exhibitions of local\items. I can't get enough!
+373,customer,84-1,Chimpan Z
+374,customer,84-2,Politician
+375,customer,84-13,I like greengrocers.\Well, just bananas, really.
+376,customer,85-1,Robin Froe
+377,customer,85-2,Beautician
+378,customer,86-1,Ginny Love
+379,customer,86-2,Tour Guide
+380,customer,87-1,Pumpkin 1
+381,customer,87-2,Gardener
+382,customer,87-13,I like bowling alleys.\I just recently retired.
+383,customer,88-1,Chairman
+384,customer,88-2,NAM Chair
+385,customer_comment,0-2,Hello. You've got a great mall here.
+386,customer_comment,0-3,I never want to go home.
+387,customer_comment,1-2,I just love shopping here.
+388,customer_comment,1-3,But sometimes I spend too much. Heh heh...
+389,customer_comment,2-2,Hi. I'm feeling great today.
+390,customer_comment,2-3,But that's true every day.
+391,customer_comment,3-2,I love it when stores hold sales during the Sale Season.
+392,customer_comment,3-3,It's so exciting.
+393,customer_comment,4-2,It seems that a Fever lasts for 4 weeks. Did you know that?
+394,customer_comment,4-3,Oh, you did? Never mind, then...
+395,customer_comment,5-2,High Quality just makes me want to buy, buy, buy!
+396,customer_comment,6-2,I always like to check out stores that have good Rep.
+397,customer_comment,6-3,They're usually the best, after all.
+398,customer_comment,7-2,This place is always so nice and clean. I love it.
+399,customer_comment,8-2,I often end up going to the stores that are next to the ones I came to shop at.
+400,customer_comment,8-3,Sometimes I end up buying too much like that.
+401,customer_comment,9-2,Stairs and escalators are okay, but I really prefer elevators.
+402,customer_comment,9-3,They're the most convenient.
+403,customer_comment,10-2,You can often find store combos by switching around your stores' locations.
+404,customer_comment,11-2,Riding in a helicopter to go shopping? That's the life...
+405,customer_comment,12-2,Being able to come on the bus is really convenient.
+406,customer_comment,13-2,I like being able to take the train when I shop.
+407,customer_comment,14-2,My record company's doing well, as usual. We've got a lot of new artists.
+408,customer_comment,15-2,I'd like to write a book about the banana sorting methods I've seen used at your store.
+409,customer_comment,16-2,I was a singer until recently. What should I try next?
+410,customer_comment,16-3,Maybe I'll take a trip around the world.
+411,customer_comment,17-2,I like to curl up with a cup of cocoa in the winter.
+412,customer_comment,17-3,And don't forget the marshmallows!
+413,customer_comment,18-2&19-2&20-2&21-2&22-2&23-2&24-2&25-2&26-2&27-2&28-2&29-2&30-2&31-2&32-2&33-2&34-2&35-2&36-2&37-2&38-2, 
+414,evtmsgs,0-1,The rival mall has taken some of our customers from us...
+415,evtmsgs,1-1,Our customers have returned from the rival mall!
+416,evtmsgs,2-1,The customers are very excited about the new Bus Stop!
+417,evtmsgs,3-1,The customers are very excited about the new Subway Station!
+418,evtmsgs,4-1,The customers are very excited about the new Heliport!
+419,evtmsgs,5-1,<0> is the talk of the town! Our customers love us!
+420,evtmsgs,6-1,<0> is very popular! Our customers love us!
+421,evtmsgs,7-1,<0> was featured on a TV program. Our customers love us!
+422,evtmsgs,8-1,<0> was featured in a magazine article. Our customers love us!
+423,evtmsgs,9-1,<0>'s popularity is reaching its peak! Our customers love us!
+424,evtmsgs,10-1,We lost a few customers due to the rival mall's advertising campaign...
+425,evtmsgs,11-1,We lost a lot of customers due to the rival mall's advertising campaign...
+426,evtmsgs,12-1,The rival mall's sales campaign resulted in us losing some customers...
+427,evtmsgs,13-1,But their quality just wasn't good enough, so many of the customers have come back to us!
+428,evtmsgs,14-1,<0>'s popularity is at its peak! It's Fever time!
+429,evtmsgs,15-1,We're not getting many customers thanks to the recession...
+430,evtmsgs,16-1,Everyone is talking about <0> becoming a <1>-star mall!
+431,evtmsgs,17-1,They got mad at us for not having escalators...
+432,evtmsgs,18-1,They got mad at us for not having elevators...
+433,evtmsgs,19-1,This month's advertising campaign has brought a few customers back to us!
+434,evtmsgs,20-1,This month's advertising campaign has brought a lot of customers back to us!
+435,evtmsgs,21-1,This month's sales campaign has brought a few customers back to us!
+436,evtmsgs,22-1,This month's sales campaign has brought a lot of customers back to us!
+437,evtmsgs,23-1,Congratulations! All of our customers are now regulars!
+438,evtmsgs,24-1,Everyone is talking about us in town. We're really getting popular!
+439,evtmsgs,25-1,Now that we've reached #1 in the country, we can build a Casino!
+440,manual,0-0,In this shopping mall simulation game, you get 15 years to create a 5-star shopping mall filled with shops that customers want to visit.
+,,,▼Game Flow 1<br>Try to build shops that your customers will like. When a customer is satisfied with a shop's quality, they become a regular. Regulars tend to spend more money.
+,,,▼Game Flow 2<br>Malls are ranked with a 5-star rating system. As you go up in rank, you will get access to more employees and advertising methods. Try to get to 5 stars.
+,,,▼Going Up In Rank<br>Your ability to go up in rank depends on things like monthly sales and the number of regular customers. Try to build stores that have high sales, or that will be liked by customers.
+,,,▼Adding Stores 1<br>You can get plans for new stores by selecting "Actions" > "Buy Plans" from the menu. You will sometimes get new plans as a gift when a customer becomes a regular.
+,,,▼Adding Stores 2<br>Adding new stores will sometimes attract new customers. In some cases, a customer may even ask you to invest in something because they want to move into the area.
+,,,▼Making Investments 1<br>You can make investments to attract developments such as apartment complexes and office buildings to the area, increasing your mall's business.
+,,,▼Making Investments 2<br>You can also sometimes invest in your own mall, increasing its size or researching things such as escalators. These will be vital if you want to become a mega-mall.
+,,,▼Hiring Staff<br>Staff have two roles: handing out hearts and increasing product quality. Some staff are best paired with certain types of stores, so watch where you place them.
+,,,▼Staff<br>At first, you won't be able to change your staff, but as your mall gets more floors you will be able to hire more people to manage them. Try investing in your mall to make it bigger.
+,,,▼Getting Hearts 1<br>You need hearts to hold sales or get plans for new stores. You get hearts when customers use facilities such as toilets, or when they interact with staff.
+,,,▼Getting Hearts 2<br>If you want more hearts, build more facilities or hire a staff member who is particularly thoughtful.
+,,,▼Holding Sales<br>Holding a sale makes it more likely for customers to visit a particular store. It can be a useful method of increasing your national rank or of leveling up a store.
+,,,▼Fever 1<br>During a Fever, customers from the surrounding area will crowd into your mall. It's a perfect chance to make a lot of sales, but be careful you don't sell out too soon.
+,,,▼Fever 2<br>A Fever starts when your mall's Popularity reaches 100. During a Fever, every visitor to your mall will give you a heart, making it a great opportunity to get hearts.
+,,,▼Making Store Combos 1<br>A store combo is a combination of stores that, when built next to each other, give bonuses to prices or Rep.
+,,,▼Making Store Combos 2<br>To make a combo, all of the stores must be touching in one unbroken line. There are also rumors of a salesman who sells plans for new store combos...
+,,,▼Leveling Up Stores<br>Once a store gets a certain number of visitors, it will level up, increasing its sales prices and Rep. You also get bonus points that you can allocate to Quality or Stock.
+,,,▼Adding New Services<br>Each store has a variety of services that can be added by spending hearts, which boosts its Quality and Rep. Try adding services to stores with slow sales.
+,,,▼Installing Movement Facilities<br>Facilities such as stairways and escalators help customers move around more smoothly, and can greatly affect your sales.
+,,,▼Advertising<br>Advertising can increase your mall's Popularity. Advertising is vital if you want to trigger a Fever, although the state of the economy can change its effectiveness.
+,,,▼Transportation Facilities<br>As you progress, you will be able to research facilities such as bus stops. These make it easier for customers to access your mall, and can greatly affect your bottom line.
+,,,▼Hands in the Air<br>When a customer finds a store they like, they will throw their hands up in the air. If that store's Quality reaches a certain level, they will become a regular of that store.
+,,,▼Store Placement 1<br>Place stores with a high Rep on the higher floors of your mall. Grouping many stores with low Rep together won't result in much of an increase in sales.
+,,,▼Store Placement 2<br>Placing a store with a high Rep next to a weaker store that you want to level up is an effective strategy. Placing facilities on the same floor as the store will also boost Rep.
+,,,▼Store Placement 3<br>Placing multiple facilities of the same type on one floor is not very effective. Try to spread them out. Also avoid building too many facilities.
+,,,▼Yearly Store Rank<br>Each year, the store in your mall that earned the most money will compete in the national rankings. Sales are an important factor, but Quality and Reputation also play a part.
+,,,▼Game Ending<br>The game will "end" when you reach the end of March of year 16. Your funds and Clear Points will be saved as your high score. However, you can keep playing for as long as you like.
+,,,▼Other<br>After beating the game, you will be able to carry over some of your data when starting a new game, making it easier to get a better high score.
+,,,(About This Game)
+441,news,0-1,A New Mall Opens!
+442,news,0-2,There's a new player in the mall industry: <0>. When asked for a comment, the manager's secretary said, "While we have a limited selection at the moment, we're on our way to becoming a one-stop shopping solution." It has been a long time since we've seen a new face in the industry, and we look forward to seeing what will happen in the future.
+443,news,1-1,Quality and Reputation
+444,news,1-2,<po=m>We often hear from malls trying to improve their sales numbers, so we decide to ask an expert for some advice. "Increase your Quality to encourage people to buy more items at once. And don't forget to put the stores with the highest Reputation higher up in the building."<br><br>It seems that customers have a tendency to shop at stores they pass on the way to or from the main store they want to visit. We'll be sure to pass on any other tidbits of advice we may encounter.
+445,news,2-1,A 1-Star Mall
+446,news,2-2,<po=m>We've just received word that <0> has become a 1-star mall. Employees and customers alike are overjoyed by this honor. The entire mall looks like one giant party.<br><br>We asked a frequent mall customer for a comment, "We're honored to have <0> in our town. It's wonderful to be able to shop in such a beautiful place." Indeed, our editing staff couldn't help but take the afternoon off for a quick trip to <0>.
+447,news,3-1,A 2-Star Mall
+448,news,3-2&5-2,dummy
+449,news,4-1,A 3-Star Mall
+450,news,4-2,We have just learned that thanks to its tireless efforts, <0> has become a 3-star mall. Its steadily increasing customer base and wide variety of stores have attracted attention from industry insiders. We wonder what the future will bring for this rising star.
+451,news,5-1,A 4-Star Mall
+452,news,6-1,A 5-Star Mall
+453,news,6-2,We've just been told that <0>, the mall that this publication has been following since its inception, has been recognized by the Mall Association as a 5-star mall. This is a rare honor that is bestowed to only a handful of malls in the world. We hope the management will take the time for a short celebration before going back to work.
+454,news,7-1,Store Combos
+455,news,7-2,<0> has created its first store combo. A combo is a group of compatible stores on the same floor. Combos can really boost a store's Reputation and Price, so they're worth looking for. Don't forget that you can use the "Move" command to move a store to a new location without having to rebuild.
+456,news,10-1,1,000 Visitors
+457,news,10-2,With the help of the National Association of Birdwatchers, <0> has been working to get an accurate tally of visitors, and has just learned that they have had more than 1,000 visitors since opening their doors! Fabulous prizes were distributed to the customers in the mall in honor of this achievement. 10 minutes afterwards, the flustered manager arrived in a tuxedo, mumbling something about being trapped in the bathroom.
+458,news,11-1,Bus Stop Opening
+459,news,11-2,The bus stop that had been under construction for some time was finally finished today. One happy customer was heard to remark, "It used to take me 2 hours to come on foot, and now it just takes 10 minutes! I can spend that extra time relaxing in a cafe!"
+460,news,12-1,Subway Station Opening
+461,news,12-2,The subway station that had been under construction for some time was finally finished today. It promises to be a popular stop on a line that connects a variety of commercial locations. One of the workers on the job remarked, "I had to come to the mall for lunch every day during the construction, and now I'm a regular customer!"
+462,news,13-1,Heliport Opening
+463,news,13-2,We have recently been told that a heliport has been constructed at the <0>. The location is a hit with small children, who like to watch the rich and powerful arrive on helicopters. Just before takeoff, Dutch the helicopter pilot is often heard to yell "Get to da choppa!" to stragglers.
+464,news,14-1,Watch Your Stock Levels
+465,news,14-2,<po=m>Unexpectedly large crowds at the recently opened <0> have resulted in stock running out before the end of the day. The usually calm manager's secretary was heard to remark in a happy but nervous voice that stock levels would be increasing soon.<br><br>Adding new services to a store can sometimes increase stock levels as well. We hope that each store's manager will do whatever it takes to cope with this incredible demand.
+466,news,15-1,High Quality
+467,news,15-2,The National Quality Assurance Association recently announced that <0>'s <1> has one of the highest Quality levels in the country. The association's inspector could not hide his surprise that a store that opened not long ago could achieve a Quality score of more than 100. Certainly all eyes will be on <0> in the future.
+468,news,16-1,High Reputation
+469,news,16-2,According to one of our writers, <0>'s <1> has built up quite a Reputation among shoppers. No matter who he spoke to, everyone had heard good things about the store. A store with a good Rep can attract customers more easily, so <0> is no doubt quite happy about this news.
+470,news,18-1,Taking It To The Last Level
+471,news,18-2,<po=m>We on the Mall News editorial staff have been following <0> since it first opened, which was why were we particularly interested to see that one of its stores has reached the maximum level--level 10. <0>'s <1> has long been one of the mall's biggest attractions, and boasts a large number of regular customers. "We did it!" a part-time worker at the store was heard to remark. "We really did it!"<br><br>There's no doubt that this will further boost <0>'s already impressive popularity.
+472,news,19-1,Silver Screen Shopping
+473,news,19-2,According to our sources, <0> now boasts a new movie theater. The opening ceremony was presided over by none other than world-famous director James Cameroon. Excited customers commented that before the theater opened, they had to travel to the next town to see first-run movies. We can't wait to see what <0> has up its sleeve next.
+474,news,20-1,Getting Clinical
+475,news,20-2,You can add a clinic to the long list of amenities offered by <0>. "We're proud to offer the very latest and best in medical care, right here in the mall," said a clinic representative. A patient who came for treatment for his cold commented that he felt so much better after seeing the doctor that he stayed at the mall to do some shopping. What does <0> have in store for us next?
+476,news,21-1,The Age of Aquariums
+477,news,21-2,We've just learned of another new addition at up-and-coming shopping mecca <0>. This time, it's an aquarium. <0> is betting that it will be one of the mall's main attractions, and if the reactions of the children watching the exotic fish are any indication, they may be onto something. We'll have to keep an eye on <0>.
+478,news,22-1,The House Always Wins
+479,news,22-2,<po=m><0> has just opened up a new full-service casino. Customers passing by were excited by this unusual addition to the mall. "It's just like a real casino!" said one. "I feel like I'm in Las Vegas!"<br><br>With the attention that <0> is bringing the region, there can be little doubt that they will be welcoming their share of high rollers in the future.
+480,news,23-1,Reach For The Stars
+481,news,23-2,There's just no stopping <0> recently. This time, they've added an entire planetarium. In the words of the facility's head, it "allows customers to experience the wonders of the universe through stunning, high-quality visuals." Indeed, the planetarium features the latest in projection equipment found only in a handful of locations around the world. It's sure to be one of the main attractions in an already impressive lineup.
+482,news,24-1,How Convenient
+483,news,24-2,<0> is rapidly becoming an integral part of the surrounding community, and has just opened a new convenience store. Its biggest draw is its wide selection, featuring everything from household items to snacks and premade lunches. Workers from nearby office buildings are already making a beeline for the store on their lunch hour, and many others stop by to shop and look at the magazines.
+484,news,25-1,Service With A Smile
+485,news,25-2,<0> has just opened a service counter to assist its many customers. Offering maps, directions, and other services, the service counter is already well on its way to becoming one of the most popular stops for new customers, making <0> even more attractive than before.
+486,news,26-1,All Regulars?!
+487,news,26-2,<po=m>It's not easy to surprise us after so many years in this business, but <0> has done it. According to our calculations, all of the mall's customers are now regulars! This unheard-of situation has attracted considerable attention in the industry.<br><br>We here at the Mall News have been secretly pulling for <0> for some time, and couldn't be happier about this news. We hope they will continue to inspire us long into the future.
+488,news,27-1,Depression
+489,news,27-2,The effects of the worldwide economic depression have started to make themselves felt on the mall industry, with many cutting back on advertising or reducing salaries. We'll be following this story closely in the coming days.
+490,service,0-1,Luxury Goods
+491,service,0-11,Prices sometimes go up by 1.5x.
+492,service,1-1,Stock Up (S)
+493,service,1-11,Slightly increases inventory size.
+494,service,2-1,Stock Up (M)
+495,service,2-11,Increases inventory size.
+496,service,3-1,Stock Up (L)
+497,service,3-11,Greatly increases inventory size.
+498,service,4-1,Quality Up (S)
+499,service,4-11,Slightly increases Quality.
+500,service,5-1,Quality Up (M)
+501,service,5-11,Increases Quality.
+502,service,6-1,Quality Up (L)
+503,service,6-11,Greatly increases Quality.
+504,service,7-1,Rep Up (S)
+505,service,7-11,Slightly increases Rep.
+506,service,8-1,Rep Up (M)
+507,service,8-11,Increases Rep.
+508,service,9-1,Rep Up (L)
+509,service,9-11,Greatly increases Rep.
+510,service,10-1,Point Card
+511,service,10-11&13-11&16-11&19-11&22-11&25-11&28-11&31-11&34-11&37-11&40-11&43-11&46-11&49-11&52-11&55-11&58-11&61-11&64-11&67-11&70-11&73-11&76-11&79-11&82-11&85-11&88-11&91-11&94-11&97-11&100-11&103-11&106-11&109-11&112-11&115-11&118-11&121-11&124-11&127-11&130-11&133-11&136-11&139-11&142-11&145-11&148-11&151-11&154-11&157-11&160-11&163-11&166-11&169-11&172-11&175-11&178-11&181-11&184-11&187-11&189-11&192-11&195-11&198-11&201-11&204-11&207-11&210-11&213-11&216-11&219-11&222-11&225-11&228-11&231-11&234-11&237-11&240-11,May increase Rep a bit.
+512,service,11-1,Credit Card
+513,service,11-11&14-11&17-11&20-11&23-11&26-11&29-11&32-11&35-11&38-11&41-11&44-11&47-11&50-11&53-11&56-11&59-11&62-11&65-11&68-11&71-11&74-11&77-11&80-11&83-11&86-11&89-11&92-11&95-11&98-11&101-11&104-11&107-11&110-11&113-11&116-11&119-11&122-11&125-11&128-11&131-11&134-11&137-11&140-11&143-11&146-11&149-11&152-11&155-11&158-11&161-11&164-11&167-11&170-11&173-11&176-11&179-11&182-11&185-11&190-11&193-11&196-11&199-11&202-11&205-11&208-11&211-11&214-11&217-11&220-11&223-11&226-11&229-11&232-11&235-11&238-11&241-11,Increases Rep and Quality.
+514,service,12-1,Member Card
+515,service,12-11&15-11&18-11&21-11&24-11&27-11&30-11&33-11&36-11&39-11&42-11&45-11&48-11&51-11&54-11&57-11&60-11&63-11&66-11&69-11&72-11&75-11&78-11&81-11&84-11&87-11&90-11&93-11&96-11&99-11&102-11&105-11&108-11&111-11&114-11&117-11&120-11&123-11&126-11&129-11&132-11&135-11&138-11&141-11&144-11&147-11&150-11&153-11&156-11&159-11&162-11&165-11&168-11&171-11&174-11&177-11&180-11&183-11&186-11&188-11&191-11&194-11&197-11&200-11&203-11&206-11&209-11&212-11&215-11&218-11&221-11&224-11&227-11&230-11&233-11&236-11&239-11&242-11,Greatly increases Rep and Quality.
+516,service,13-1,Stereo Phones
+517,service,14-1,Wi-Fi Hotspot
+518,service,15-1,Video Phones
+519,service,16-1,Deodorizer
+520,service,17-1,Auto-Cleaner
+521,service,18-1,Heated Seats
+522,service,19-1,Organic Fruit
+523,service,20-1,Artisan Veggies
+524,service,21-1,Import Produce
+525,service,22-1,Sardines
+526,service,23-1,Smoked Salmon
+527,service,24-1,Caviar
+528,service,25-1,Espresso
+529,service,26-1,Sandwiches
+530,service,27-1,Smoothies
+531,service,28-1,Accessories
+532,service,29-1,Rugs
+533,service,30-1,Furniture
+534,service,31-1,Baguettes
+535,service,32-1,Croissants
+536,service,33-1,Muffins
+537,service,34-1,Rainbow Tulips
+538,service,35-1,Bouquets
+539,service,36-1,Blue Roses
+540,service,37-1,Keychains
+541,service,38-1,Slime
+542,service,39-1,Novelty Erasers
+543,service,40-1,Decaf Coffee
+544,service,41-1,Special Teas
+545,service,42-1,Sports Drinks
+546,service,43-1,Pine Tree
+547,service,44-1,Cactus
+548,service,45-1,Bonsai
+549,service,46-1,Organic Chckn
+550,service,47-1,Mangalitsa Pork
+551,service,48-1,Kobe Beef
+552,service,49-1,Penny Candy
+553,service,50-1,Cheap Soda
+554,service,51-1,Yummy Snacks
+555,service,52-1,Fountain Pens
+556,service,53-1,Erasers
+557,service,54-1,Colored Paper
+558,service,55-1,Hats
+559,service,56-1,Dresses
+560,service,57-1,Overcoats
+561,service,58-1,Stronger Locks
+562,service,59-1,Code Locks
+563,service,60-1,Money Return
+564,service,61-1,Tech Upgrade
+565,service,62-1,Housecalls
+566,service,63-1,Anti-Pick Locks
+567,service,64-1,Custom Icing
+568,service,65-1,Cupcakes
+569,service,66-1,Cake Buffet
+570,service,67-1,Strategy Guides
+571,service,68-1,Arcade Sticks
+572,service,69-1,The Pwr Glove
+573,service,70-1,Egg Rolls
+574,service,71-1,Crab Rangoon
+575,service,72-1,Almond Cookies
+576,service,73-1,Value Menu
+577,service,74-1,Frosty Shakes
+578,service,75-1,Cheese Fries
+579,service,76-1,Hot Dogs
+580,service,77-1,Comic Books
+581,service,78-1,Boxed Lunches
+582,service,79-1,Smoking Area
+583,service,80-1,Daycare Area
+584,service,81-1,Napping Area
+585,service,82-1,Odd Sizes
+586,service,83-1,Custom Shoes
+587,service,84-1,Shoe Repair
+588,service,85-1,Luxury Glasses
+589,service,86-1,Contact Lenses
+590,service,87-1,Color Contacts
+591,service,88-1,Cheap Tissues
+592,service,89-1,Health Foods
+593,service,90-1,Health Drinks
+594,service,91-1,California Roll
+595,service,92-1,Dragon Roll
+596,service,93-1,Fancy Maguro
+597,service,94-1,Gourmet Cuts
+598,service,95-1,Exotic Cheeses
+599,service,96-1,Catering
+600,service,97-1,Daily Special
+601,service,98-1,Organic Foods
+602,service,99-1,Bulk Foods
+603,service,100-1,Gift Wrapping
+604,service,101-1,Stroller Rental
+605,service,102-1,Announcements
+606,service,103-1,Rice Bowls
+607,service,104-1,Udon Noodles
+608,service,105-1,Yakisoba
+609,service,106-1,VHS/DVD
+610,service,107-1,CDs/Comics
+611,service,108-1,Blu-ray
+612,service,109-1,Paperbacks
+613,service,110-1,Magazines
+614,service,111-1,Comics
+615,service,112-1,Filet Mignon
+616,service,113-1,Salad Bar
+617,service,114-1,Sundae Bar
+618,service,115-1,Posters
+619,service,116-1,Preordering
+620,service,117-1,Listening Booth
+621,service,118-1,Party Menu
+622,service,119-1,Private Booths
+623,service,120-1,Scoring System
+624,service,121-1,Movie Tickets
+625,service,122-1,Sports Tickets
+626,service,123-1,Concert Tickets
+627,service,124-1,Stuffed Animals
+628,service,125-1,Puzzles
+629,service,126-1,Toy Robots
+630,service,127-1,Free Samples
+631,service,128-1,Makeovers
+632,service,129-1,Luxury Makeup
+633,service,130-1,Birds
+634,service,131-1,Dogs & Cats
+635,service,132-1,Camels
+636,service,133-1,Pinball
+637,service,134-1,Rhythm Games
+638,service,135-1,Tourneys
+639,service,136-1,Appetizers
+640,service,137-1,Italian
+641,service,138-1,French
+642,service,139-1,Shots
+643,service,140-1,New Equipment
+644,service,141-1,Acupuncture
+645,service,142-1,Dining Sets
+646,service,143-1,Sofas
+647,service,144-1,Beds
+648,service,145-1,Perfume
+649,service,146-1,Handbags
+650,service,147-1,Luxury Wallets
+651,service,148-1,Rental Shoes
+652,service,149-1,Billiards
+653,service,150-1,League Play
+654,service,151-1,Auto-Cleaner
+655,service,152-1,Comfy Benches
+656,service,153-1,Fish Tank
+657,service,154-1,Scratch Cards
+658,service,155-1,Yearly Jackpot
+659,service,156-1,Mega Lotto
+660,service,157-1,Hair Removal
+661,service,158-1,Perms
+662,service,159-1,Highlights
+663,service,160-1,Camera Phones
+664,service,161-1,Smartphones
+665,service,162-1,Satellite Phones
+666,service,163-1,PC Part Sales
+667,service,164-1,LCD Monitors
+668,service,165-1,Tablet PCs
+669,service,166-1,Washers
+670,service,167-1,Refrigerators
+671,service,168-1,HDTVs
+672,service,169-1,Platinum Rings
+673,service,170-1,Diamonds
+674,service,171-1,Wedding Rings
+675,service,172-1,Popcorn
+676,service,173-1,Candy
+677,service,174-1,Nachos
+678,service,175-1,Apartments
+679,service,176-1,Houses
+680,service,177-1,Mansions
+681,service,178-1,West Exhibit
+682,service,179-1,South Exhibit
+683,service,180-1,North Exhibit
+684,service,181-1,High Security
+685,service,182-1,Fingerprint Scn
+686,service,183-1,Optic Scn
+687,service,184-1,Palm Reading
+688,service,185-1,Tarot Cards
+689,service,186-1,Numerology
+690,service,187-1,Relaxing Space
+691,service,188-1,Welcome Drink
+692,service,189-1,Battery Change
+693,service,190-1,Pocket Watches
+694,service,191-1,Luxury Watches
+695,service,192-1,Canvases
+696,service,193-1,Oil Paints
+697,service,194-1,Golden Frames
+698,service,195-1,Headphones
+699,service,196-1,5.1 Speakers
+700,service,197-1,Home Theater
+701,service,198-1,Manicure
+702,service,199-1,French Tips
+703,service,200-1,Pedicure
+704,service,201-1,Barstools
+705,service,202-1,TV
+706,service,203-1,Pool Table
+707,service,204-1,ID Photos
+708,service,205-1,Lens Sales
+709,service,206-1,Photo Printing
+710,service,207-1,Granny Panties
+711,service,208-1,Push-Up Bras
+712,service,209-1,Sports Bras
+713,service,210-1,Telescope
+714,service,211-1,Map of Area
+715,service,212-1,Souvenirs
+716,service,213-1,Massages
+717,service,214-1,Mud Facials
+718,service,215-1,Hot Spring Bath
+719,service,216-1,Panda Ride
+720,service,217-1,Mini-Train
+721,service,218-1,Hero Show
+722,service,219-1,Shark Exhibit
+723,service,220-1,Dolphin Show
+724,service,221-1,Swim with Fish
+725,service,222-1,Roulette
+726,service,223-1,Slot Machines
+727,service,224-1,Blackjack
+728,service,225-1,Radio
+729,service,226-1,TV
+730,service,227-1,Ticket Machines
+731,service,228-1,Better Speakers
+732,service,229-1,Better Screens
+733,service,230-1,Better Drinks
+734,service,231-1,Art Exhibition
+735,service,232-1,Fossil Show
+736,service,233-1,Art Classes
+737,service,234-1,Reclining Seats
+738,service,235-1,Big Screens
+739,service,236-1,Digi Projectors
+740,service,237-1,Snack Foods
+741,service,238-1,Ice Cream
+742,service,239-1,Door Prizes
+743,service,240-1,French Fries
+744,service,241-1,Parfaits
+745,service,242-1,Hamburgers
+746,softkey,0-1,Confirm
+747,softkey,1-1,Finish
+748,softkey,2-1,Back
+749,softkey,3-1,Yes
+750,softkey,4-1,No
+751,softkey,5-1,Check
+752,softkey,6-1,Save
+753,softkey,7-1,Menu
+754,softkey,8-1,Complete
+755,softkey,9-1,Site
+756,softkey,10-1,Hint
+757,softkey,11-1,Order
+758,softkey,12-1,Cancel
+759,softkey,13-1,Rename
+760,softkey,14-1,Details
+761,softkey,15-1,Guide
+762,softkey,16-1,Rotate
+763,softkey,17-1,Cancel
+764,softkey,18-1,Hints On
+765,softkey,19-1,Hints Off
+766,softkey,20-1,Switch
+767,softkey,21-1,Info
+768,softkey,22-1,On
+769,softkey,23-1,Off
+770,sp_floor,0-1,Kids
+771,sp_floor,1-1,Neighbors
+772,sp_floor,2-1,Crowd
+773,sp_floor,3-1,Girls
+774,sp_floor,4-1,Snacks
+775,sp_floor,5-1,Breakfast
+776,sp_floor,6-1,Toys
+777,sp_floor,7-1,Convenience
+778,sp_floor,8-1,Electronics
+779,sp_floor,9-1,Laid Back
+780,sp_floor,10-1,Grocery
+781,sp_floor,11-1,Gentleman
+782,sp_floor,12-1,Living
+783,sp_floor,13-1,Dreams
+784,sp_floor,14-1,Relaxation
+785,sp_floor,15-1,Sound
+786,sp_floor,16-1,Wisdom
+787,sp_floor,17-1,Pleasure
+788,sp_floor,18-1,Ent.
+789,sp_floor,19-1,Theater
+790,sp_floor,20-1,Fashion
+791,sp_floor,21-1,Fun
+792,sp_floor,22-1,Seniors
+793,sp_floor,23-1,Jewelry
+794,sp_floor,24-1,Model
+795,sp_floor,25-1,Celebrity
+796,sp_floor,26-1,Luxury
+797,sp_floor,27-1,Scenery
+798,sp_floor,28-1,Drinks
+799,sp_floor,29-1,Food
+800,sp_floor,30-1,Holiday
+801,sp_floor,31-1,Date
+802,talk,0-2,Hello!
+,,,I'm your secretary! Pleased to meet you!
+,,,We may not be very big at the moment, but we've got 15 years to become a 5-star mall of mega proportions!
+,,,Select "How to Play" under the "System" menu to see game instructions.
+,,,The mall is about to open, but we don't have any shops! Try building some.
+,,,The first step in becoming a 1-star mall is to select "Build" from the menu and select "Bakery."
+803,talk,1-2,<0> years have now passed. This marks the end of the first part of the game.
+,,,Your Clear Points will now be calculated.
+804,talk,2-2,You have <0> total Clear Points.
+,,,Congratulations! You beat your high score.
+,,,Try to do better in your next play through!
+805,talk,3-2,You have <0> total Clear Points.
+,,,Sorry. You didn't beat your high score.
+,,,Try to do better in your next play through!
+806,talk,4-2,From this point onward, your high score will no longer be updated.
+,,,But you can continue to play the game as long as you like. Have fun!
+807,talk,5-2,<po=m>Your investment has paid off... Construction speed has increased by<co=993300> <co=0066cc><0>%</co>!
+,,,Construction progress will now increase by <1>% each week.
+808,talk,6-2,Hello. I'm from Pumpkin Products.
+,,,I've got some top-secret info you might be interested in...
+809,talk,7-2,See you later!
+810,talk,8-2,Oops! I just remembered some urgent business I have to attend to. Goodbye for now.
+,,,You can see the info you bought by selecting "Info" > "Combos" from the menu.
+811,talk,9-2,Welcome.
+812,talk,10-2,Uh-oh! I've run out of things to sell!
+,,,But I'll have more things available once your mall has gotten a bit bigger. See you then.
+813,talk,11-2,I'm sorry. I'm fresh out of things to sell.
+,,,You'll have to wait until my next shipment comes in.
+814,talk,12-2,Oh dear!
+,,,Another mall has opened in the neighborhood!
+815,talk,13-2,This could be bad. If we're not careful, we might end up losing customers to this rival mall.
+,,,We've got to work hard to make sure that doesn't happen!
+816,talk,14-2,I have some news.
+,,,You know that other mall that opened nearby?
+,,,Well they're going out of business!
+817,talk,15-2,Isn't that great?! Now our customers in the neighborhood should come back to us.
+,,,And it's all thanks to our management skills. Let's keep up the good work!
+818,talk,16-2,When we removed the Lvl. <0> <1>...
+,,,We found a new location for it outside the mall! They paid you <2>.
+819,talk,17-2,We should get a lot of customers during the Spring Sale Season this month.
+,,,The national mall rankings are going to be announced at the end of the month.
+,,,You might try running a sale at a store with a connection to spring.
+820,talk,18-2,We should get a lot of customers during the Summer Sale Season this month.
+,,,Let's see how many we can get!
+821,talk,19-2,We should get a lot of customers during the Holiday Sale Season this month.
+,,,The national mall rankings are going to be announced at the end of the month.
+822,talk,20-2,You worked hard this year. Well done.
+823,talk,21-2,You worked hard this year. Well done.
+,,,The national mall rankings are about to be announced.
+,,,We came in at #<0> last time. I wonder how we'll do this time around?
+824,talk,22-2,Our national ranking was #<0>.
+,,,Unfortunately, we didn't do better than last time.
+,,,Let's get ready for the next sale season.
+825,talk,23-2,Congratulations! You finally did it!
+,,,Someone from the National Association of Malls is here to congratulate you.
+826,talk,24-2,Hello. We're very impressed by how fast your mall has been developing.
+,,,So we're happy to announce that your mall has gone up in rank.
+,,,You should now be able to build some new stores.
+827,talk,25-2,Yes!
+,,,Thanks to your management skills, we've been promoted to a <1>-star mall!
+,,,We can now research new types of stores! That should help attract more customers.
+,,,Keep up the good work!
+828,talk,26-2,I'll be doing my best as well!
+829,talk,27-2,I'll turn this place into the best mall in the country, guaranteed!
+830,talk,28-2,I look forward to working with you.
+831,talk,29-2&31-2,I came all the way from the countryside just to work here! Thank you for this opportunity!
+832,talk,30-2,Working here has been my dream for as long as I can remember! This is so exciting!
+833,talk,36-2,I see...
+,,,Thanks for everything. Goodbye.
+834,talk,37-2,I see...
+,,,I guess it was time for a change anyway. Goodbye.
+835,talk,38-2,Oh...
+,,,And I thought I was just hitting my stride, too... Well, goodbye...
+836,talk,39-2,What?!
+,,,I guess I'll have to go back home and try my hand at planting trees or something...
+837,talk,40-2,Oh, I see...
+,,,I guess I'll go back to my hometown and try writing that novel I've been thinking about. Goodbye.
+838,talk,41-2,W-What?! Really?! I see...
+,,,I want to just crawl under the covers and sleep...
+839,talk,42-2,Hmm... I suppose that's the right decision, from a feng shui perspective.
+840,talk,43-2,...That's too bad.
+841,talk,46-2,<1> development is currently in progress in the <0>.
+,,,You'll have to wait until it finishes.
+842,talk,47-2,<0> development is currently underway.
+843,talk,48-2,Okay, I'll tell them to start the <0> development.
+,,,Please wait for a while until it finishes.
+844,talk,49-2,Boss?
+,,,You know the <1> development in the <0>?
+,,,Well, it just finished!
+845,talk,50-2,You use this menu to build stores or facilities.
+,,,Building more stores makes it more likely for customers to want to come to the mall. Try to build lots of stores.
+846,talk,51-2,You'll need stairways to allow customers to go from one floor to another.
+,,,Stairs are very important, so be careful where you build them.
+,,,You can use the switch button to flip the direction that a stairway faces.
+847,talk,52-2,Facilities are very important--they increase the Rep of all of the stores on the same floor.
+,,,And you also get hearts from customers who use them.
+,,,But they don't contribute much to sales, so be careful not to build too many of them.
+848,talk,53-2,Stores on the "Special" tab are unique stores. You can only have one of them in your mall.
+,,,So be careful when building them.
+,,,But don't worry--if you remove a unique store, you can build it again.
+849,talk,54-2,In this menu, you can invest money in the surrounding areas.
+,,,The more developed these areas are, the more customers you will have.
+,,,So if you have some extra money, don't be afraid to invest it!
+850,talk,55-2,Hello. I'm from Pumpkin Products.
+,,,Would you be interested in some plans for new stores?
+,,,Let me know if you see a store you'd like to build.
+851,talk,56-2,Thank you.
+,,,You can call me at any time by selecting "Actions" > "Buy Plans" from the menu.
+,,,I look forward to seeing you again soon.
+852,talk,57-2,Oh dear!
+,,,We've just received a report that some customers are stuck in the store!
+,,,You'll have to build stairways leading to the 1st floor so they can go home!
+,,,Please hurry.
+853,talk,58-2,It sounds like the economy isn't doing very well at the moment.
+,,,I hope this doesn't affect the number of customers we get...
+854,talk,59-2,Uh-oh... It's raining.
+,,,I hope this doesn't affect the number of customers we get...
+855,talk,60-2,Yes!
+,,,<0>'s popularity has reached its peak! And you know what that means--it's Fever time!
+,,,We're about to be overrun with customers!
+,,,During a Fever, you get hearts from customers just by having them come to the mall.
+856,talk,61-2,Boss! We just got our first regular customer!
+,,,When a customer becomes satisfied with the Quality of their favorite store, they become a regular.
+,,,Regulars buy more products on each shopping trip, so they can really help contribute to your total sales.
+,,,Try to get as many regulars as you can!
+857,talk,62-2,In this menu, you can view information about your staff members, or hire new ones.
+,,,Just remember that you have to pay a signing bonus when first hiring someone, so choose carefully.
+858,talk,63-2,Hello.
+,,,I've heard good things about the <0> at <1>, and was thinking about moving into the area.
+,,,I'm working on a development project in the <2>, if you'd like to invest.
+,,,Please think about it. I'll be waiting.
+859,talk,64-2,Boss!
+,,,Our popularity is at its peak again! It's Fever time!
+860,talk,65-2,The "Special" menu lists some unique stores.
+,,,Many of them are very popular with customers, but they can be difficult to get.
+861,talk,66-2,Boss!
+,,,We've got our first customer!
+,,,I wonder which store they're going to visit...
+862,talk,67-2,You can use this menu to hold sales.
+,,,Customers are more likely to visit stores running sales, which should contribute to the mall's bottom line.
+,,,Holding a sale does consume hearts, though, so don't go overboard.
+863,talk,68-2,We can't hire them until our mall gets bigger.
+,,,I can't wait until we become a mega-mall, can you?
+864,talk,69-2,We just received an investment proposal from a customer.
+,,,You can check it by opening the "Invest" menu.
+865,talk,70-2,Boss?
+,,,I noticed that you haven't been investing much.
+,,,Investing can increase the number of customers we get, so I suggest you do it as often as you can.
+866,talk,71-2,Boss?
+,,,We don't have any floor managers.
+,,,Select "Actions" > "Hire Staff" to hire a floor manager.
+867,talk,72-2,Boss?
+,,,It looks like we have some stores that aren't connected to the 1st floor.
+,,,Build some stairs so customers can get to all of the stores.
+868,talk,73-2,You successfully upgraded the store's stats by adding a new service.
+,,,But doing that also increases the store's maintenance costs.
+,,,If you find that the maintenance costs are too high, select a service and tap the "Off" button.
+869,talk,74-2,We can finally start building stores underground.
+,,,Some stores seem to work better underground, so go ahead and get building.
+870,talk,75-2,There are <0> applicants.
+871,talk,76-2,Welcome.
+,,,I just got some new store plans in. Feel free to check them out.
+872,talk,77-2,Our ranking went down from last year...
+,,,Let's try to improve our sales next year!
+873,talk,78-2,Hello. I'm from Pumpkin Products.
+,,,I stopped by to see if you would be interested in buying some new store plans. That's our specialty, after all.
+874,talk,79-2,Boss?
+,,,We can now start to hold sales!
+,,,Select "Actions" > "Hold Sale" to hold a sale at a particular store.
+875,talk,80-2,We did it!
+,,,We're finally #1 in the country!
+,,,I'm so proud I could burst! It's all thanks to everybody's hard work!
+,,,Of course, we'll keep working hard to keep <0> on top.
+876,talk,81-2,It seems like the <1> on the <0> is thinking of starting a new service.
+,,,It doesn't seem too expensive, and they are asking nicely...
+,,,Why don't you look into it?
+877,talk,82-2,You failed to add the new service...
+,,,That's too bad. But I'm sure we learned something from the experience.
+,,,You should have a bit better chance the next time you try.
+,,,Feel free to try again, if you have the hearts.
+878,talk,83-2,You've gone outside the buildable area.
+,,,I've heard that when a mall goes up in rank, they can get permission to increase in size.
+,,,Keep your sales up and maybe we can get bigger too!
+879,talk,84-2,Boss?
+,,,It looks like one of our stores can now go up in level.
+,,,Tap the store to select it.
+880,talk,85-2,In this menu, you can select a variety of advertising methods.
+,,,Advertising increases the number of customers you get.
+,,,Each advertising method will be automatically performed each month, so keep an eye on your funds.
+881,talk,86-2,Our national ranking was #<0>.
+,,,Unfortunately, we didn't do better than last time.
+,,,There are special Sales Seasons in August and December of each year.
+,,,Let's keep working toward our goals.
+882,talk,87-2,Refer to the "Combos" list to see which stores go together to make combos.
+,,,To make a combo, the stores must be on the same floor, and must be touching each other.
+,,,Do your best to build as many combos as possible.
+883,talk,88-2,Boss?
+,,,Now that we're a 1-star mall, we can finally start expanding in size.
+,,,To expand, select the project from the "Invest" menu.
+,,,This is our chance to grow!
+884,talk,89-2,We got a bonus from the National Association of Malls for our showing in the national rankings.
+,,,We should use it to develop our mall.
+885,talk,90-2,Boss?
+,,,Our advertising doesn't seem to be having any effect thanks to the recession.
+,,,This is a problem...
+886,talk,92-2,Thank you.
+,,,Here is the <0> Combo.
+887,talk,93-2,Is there anything else you'd like?
+888,talk,94-2,Here you can check a store's information.
+,,,Blue numbers are boosted due to bonuses.
+889,talk,95-2,We finally have 5 stars.
+,,,Now we need to concentrate on improving sales.
+890,talk,96-2,Boss?
+,,,<0> has...
+,,,...fulfilled the conditions for going up in rank!
+,,,Let's hurry up and do it!
+891,talk,97-2,<0> has finally become a 5-star mall!
+,,,When I think of all the years that have passed since we first opened, it makes me close to tears...
+,,,But we've still got work to do. Let's try to make <0> the best mall it can be!
+892,talk,98-2,Boss?
+,,,A bus company is asking us if we want to build a bus stop in our mall.
+,,,You can check out the details of the proposal under the "Invest" menu.
+893,talk,99-2,Boss?
+,,,I think it's about time to build some escalators in our mall.
+,,,You can check out the details of the proposal under the "Invest" menu.
+894,talk,100-2,Boss?
+,,,I think it's about time to build some elevators in our mall.
+,,,You can check out the details of the proposal under the "Invest" menu.
+895,talk,101-2,We haven't fulfilled the conditions for going up in rank yet.
+896,talk,102-2,Boss?
+,,,The National Association of Malls just sent some information on rank up requirements.
+,,,Since we just started out, the first step is to become a 1-star mall.
+,,,Here are the conditions for a 1-star mall.
+897,talk,103-2,Let's do our best!
+898,talk,104-2,Congratulations!
+,,,The conditions for the next rank just arrived.
+899,talk,105-2,Let's keep working hard toward the next rank.
+900,talk,106-2,Boss?
+,,,The National Association of Malls just sent the requirements for the next rank.
+901,talk,107-2,We haven't received the conditions for the next rank yet.
+902,talk,108-2,Boss?
+,,,A train company is asking if we want to build a station in our mall.
+,,,You can check out the details of the proposal under the "Invest" menu.
+903,talk,109-2,Boss?
+,,,The government just gave us approval to build a heliport. If we build one, helicopters can land at our mall!
+,,,You can check out the details of the proposal under the "Invest" menu.
+904,talk,110-2,Hello!
+,,,I am #503. I have the most advanced shopping AI of all Kairobots.
+,,,I lost my job due to the recent economic downturn, but luckily I've found a place for myself here.
+,,,I heard you had an excellent lingerie store. I think I'll check it out...
+,,,Feel free to invest in the Kairo Building if you like.
+905,talk,111-2,Hello. It's me.
+,,,I'm in town for the petroleum summit, and thought I would stop in to pick up a video game or two...
+,,,By the way, just between you and me...
+,,,I had planned to build a robot-themed amusement park nearby, but I'm overextended at the moment.
+,,,So I'm looking for investors. If the amusement park gets built, I'd probably visit here every week...
+,,,Farewell. I wish you good health.
+906,talk,112-2,Hello. Remember me from somewhere? I just love knitting.
+,,,One of my knitting friends told me about your wonderful mall, so I decided to pay it a visit.
+,,,I'm thinking about submitting some mall-themed creations of mine for your next exhibition.
+,,,Well, goodbye.
+907,talk,113-2,Hello there.
+,,,Until recently, I had been living at a nearby hot springs inn, eating bananas, but they kicked me out...
+,,,I managed to make it all the way here, when by chance I found that I had won the lottery!
+,,,So I've decided to stay here for the moment and enjoy some shopping. I'll see you around!
+908,talk,116-2,We're completely sold out. Thanks for shopping with us!
+909,talk,117-2,Hello there. You're the manager of <0>?
+,,,I was very impressed with the Quality of the <1> I visited today!
+910,talk,118-2,You just created a store combo!
+,,,That can really help contribute to our sales. Try to get as many combos as you can!
+911,talk,119-2,One of our stores has completely sold out.
+,,,If a store is selling out before the end of the day, try increasing its stock.
+,,,Selecting a store and starting a new service will sometimes increase its stock.
+912,talk,120-2,I plan to tell all of my friends about <0>! We'll come shopping together!
+913,talk,121-2,I'd like to contribute a little money.
+,,,I hope you can use it to develop the mall even further.
+914,talk,122-2,I just love this store!
+,,,Please take these hearts with my compliments!
+915,talk,123-2,I'd like to tell you about a new store I've heard of.
+,,,I'd love it if you could build one here.
+916,talk,124-2,We only need to fulfill one more condition and we can go up in rank!
+,,,We're almost there!
+917,talk,125-2,We can now build stores on the 5th floor and above.
+,,,But we're going to need another floor manager soon.
+,,,You can now select "Actions" > "Hire Staff."
+,,,Try hiring a new floor manager now.
+918,tenant,0-2&0-3,Hallway
+919,tenant,1-2&1-3,Stairway
+920,tenant,1-41,Stairway
+921,tenant,2-2&2-3,Stairway 2
+922,tenant,3-2&3-3,Escalator
+923,tenant,4-2&4-3,Elevator
+924,tenant,5-2&5-3,Entrance
+925,tenant,6-2&6-3,Bus Stop
+926,tenant,7-2&7-3,Subway
+927,tenant,8-2&8-3,Heliport
+928,tenant,9-2&9-3,Payphones
+929,tenant,10-2&10-3,Vending M.
+930,tenant,11-2&11-3,Greengrocer
+931,tenant,11-34&49-34,B2,B1,1
+932,tenant,11-41,Greengrocer
+933,tenant,12-2&12-3,Cafe
+934,tenant,12-34&13-34&14-34&16-34&24-34&54-34,B2,B1,1,2
+935,tenant,13-2&13-3,Bakery
+936,tenant,14-2&14-3,Florist
+937,tenant,15-2&15-3,Home Goods
+938,tenant,16-2&16-3,Supermarket
+939,tenant,17-2&17-3,Cinema
+940,tenant,18-2&18-3,Rest Area
+941,tenant,19-2&19-3,Restrooms
+942,tenant,20-2&20-3,Candy Store
+943,tenant,21-2&21-3,Chinese Bfft
+944,tenant,21-34&25-34&35-34&44-34&67-34,B4,B3,B2,B1,1,5,10,12
+945,tenant,22-2&22-3,Bookstore
+946,tenant,23-2&23-3,Lockers
+947,tenant,24-2&24-3,Cake Shop
+948,tenant,25-2&25-3,Fast Food
+949,tenant,26-2&26-3,Game Store
+950,tenant,27-2&27-3,Clothing St.
+951,tenant,28-2&28-3,Service C.
+952,tenant,29-2&29-3,Cafeteria
+953,tenant,30-2&30-3,Dollar Store
+954,tenant,31-2&31-3,Boutique
+955,tenant,32-2&32-3,PC Store
+956,tenant,33-2&33-3,Clinic
+957,tenant,34-2&34-3,Fountain
+958,tenant,35-2&35-3,Steakhouse
+959,tenant,36-2&36-3,Conv. Store
+960,tenant,37-2&37-3,Arcade
+961,tenant,37-34&46-34&82-34,B4,B3,B2,B1
+962,tenant,38-2&38-3,Aquarium
+963,tenant,39-2&39-3,Appliances
+964,tenant,40-2&40-3,Fancy Bistro
+965,tenant,41-2&41-3,Pet Shop
+966,tenant,42-2&42-3,Video Rental
+967,tenant,43-2&43-3,Jeweler
+968,tenant,44-2&44-3,Sushi Bar
+969,tenant,44-41,Sushi Bar
+970,tenant,45-2&45-3,Furniture St.
+971,tenant,46-2&46-3,Bowling All.
+972,tenant,47-2&47-3,Spa
+973,tenant,48-2&48-3,Toy Disp.
+974,tenant,49-2&49-3,Seafood St.
+975,tenant,50-2&50-3,Ticket Outlet
+976,tenant,51-2&51-3,Toy Store
+977,tenant,52-2&52-3,CD Store
+978,tenant,53-2&53-3,Leafy Plant
+979,tenant,54-2&54-3,Butcher
+980,tenant,54-41,Butcher
+981,tenant,55-2&55-3,Shoe Store
+982,tenant,56-2&56-3,Art Store
+983,tenant,57-2&57-3,Stationery
+984,tenant,58-2&58-3,Hair Salon
+985,tenant,59-2&59-3,Lottery Shop
+986,tenant,60-2&60-3,Fortune Tllr
+987,tenant,61-2&61-3,Drugstore
+988,tenant,62-2&62-3,Stereo Shop
+989,tenant,62-41,Stereo Shop
+990,tenant,63-2&63-3,Karaoke Clb
+991,tenant,64-2&64-3,Cosmetics
+992,tenant,65-2&65-3,Mobile Shop
+993,tenant,66-2&66-3,Obsrvtn Dck
+994,tenant,67-2&67-3,Gourmet Deli
+995,tenant,68-2&68-3,Locksmith
+996,tenant,69-2&69-3,Camera St.
+997,tenant,70-2&70-3,Glasses St.
+998,tenant,71-2&71-3,Nail Salon
+999,tenant,71-41,Nail Salon
+1000,tenant,72-2&72-3,Plaza
+1001,tenant,73-2&73-3,ATM
+1002,tenant,74-2&74-3,Watch Store
+1003,tenant,75-2&75-3,Japanese Fd
+1004,tenant,76-2&76-3,Exhibit Area
+1005,tenant,77-2&77-3,Chandelier
+1006,tenant,78-2&78-3,Bar
+1007,tenant,79-2&79-3,Real Estate
+1008,tenant,80-2&80-3,Lingerie Shp
+1009,tenant,81-2&81-3,Betting Shp
+1010,tenant,82-2&82-3,Concert Stg
+1011,tenant,83-2&83-3,Museum
+1012,tenant,84-2&84-3,Planetarium
+1013,tenant,85-2&85-3,Casino
+1014,text,0-1,Loading
+1015,text,1-1,Loading failed
+1016,text,2-1,Yr <0>
+1017,text,3-1,Mn <0> Wk <1>
+1018,text,4-1,Do not use: / | < > \
+1019,text,5-1,Sunny Springs
+1020,text,6-1,Max Money by Y15
+1021,text,7-1,Hot Springs Story
+1022,text,8-1,None
+1023,text,9-1,Inn Name
+1024,text,10-1,Rename Facility
+1025,text,11-1,Lite Version
+1026,text,12-1,Full Ver.
+1027,text,13-1,Get the full version to upload your hi scores!
+1028,text,14-1,Well done. You've finished the Lite version.
+1029,text,15-1,In the full version of the game, you can create the ultimate hot springs inn and play for as long as you like.
+1030,text,16-1,After this you'll jump to our site, so check it out!
+1031,text,17-1,Thanks for playing!
+1032,text,19-1,Money
+1033,text,20-1,Hot Springs News
+1034,text,21-1,You got <1> <co=000080><0></co>!
+1035,text,22-1,Target(s) to aim for in this guidebook...
+1036,text,23-1,Unknown. We'll be able to tell when we have more targets.
+1037,text,24-1,<br>
+1038,text,25-1,
+1039,text,26-1,<br>(Plus unknown targets.)
+1040,text,27-1,Now in stock: <co=000080><0></co>
+1041,text,28-1,New item: <co=000080><0></co>
+1042,text,29-1,<co=000080><0></co> added.
+1043,text,30-1,The latest Cruise express. <br>is now on sale.
+1044,text,31-1,Yes
+1045,text,32-1,No
+1046,text,33-1,Quit
+1047,text,34-1,Inn Info
+1048,text,35-1,Earnings
+1049,text,36-1,Targets
+1050,text,37-1,Buy
+1051,text,38-1,Items
+1052,text,39-1,Title
+1053,text,40-1,Guides
+1054,text,41-1,Stayer List
+1055,text,42-1,Compat.
+1056,text,43-1,Pop.
+1057,text,44-1,Scnry
+1058,text,45-1,Price
+1059,text,46-1,Use
+1060,text,47-1,Profit
+1061,text,48-1,Final Money: <0>
+1062,text,49-1,Compatibility Guide: <0>
+1063,text,50-1,Investments: <0>
+1064,text,51-1,Targets: <0>
+1065,text,52-1,Guests: <0>
+1066,text,53-1,Subtotal: <0>
+1067,text,54-1,Inn Popularity: <0>
+1068,text,55-1,Trophies: <0>
+1069,text,56-1,Max Bath: <0>
+1070,text,57-1,Max Scenery: <0>
+1071,text,58-1,Total: <0>
+1072,text,59-1&639-1&794-1,<0>
+1073,text,60-1,<0>
+1074,text,61-1&593-1&793-1,<0>
+1075,text,63-1,<0> effects
+1076,text,65-1,You got <co=0066cc>#1</co> in <co=0066cc><0></co>!
+1077,text,66-1,Finally! 
+1078,text,67-1,You got a fabulous trophy and a prize of <co=0066cc><0></co>!
+1079,text,68-1,<0>
+1080,text,69-1,Next month!
+1081,text,70-1,This month!
+1082,text,71-1,Priority
+1083,text,72-1,Graphics
+1084,text,73-1,Perf.
+1085,text,74-1,Selecting “Perf.” prioritizes
+1086,text,75-1,performance over graphics.
+1087,text,76-1,(Unlocked after beating game.)
+1088,text,77-1,Hot Springs News
+1089,text,78-1,Clear Points
+1090,text,79-1,Page
+1091,text,81-1,Env.
+1092,text,82-1,Facil.
+1093,text,83-1,Stores
+1094,text,84-1,Facility Info
+1095,text,85-1,Maint.
+1096,text,86-1,Base
+1097,text,88-1,Touch “Confirm” to use item
+1098,text,89-1,Bath Effects
+1099,text,90-1,Base Effects
+1100,text,91-1,Bonus
+1101,text,92-1,Position well to boost pop./price
+1102,text,93-1,Male
+1103,text,94-1,Female
+1104,text,95-1,Base Compat.
+1105,text,96-1, and 
+1106,text,97-1,Nothing effective nearby.
+1107,text,98-1,Effects of nearby facility
+1108,text,99-1,Used by
+1109,text,100-1,Satisfaction
+1110,text,101-1,Month <0>
+1111,text,102-1,Highest
+1112,text,103-1,Items Used
+1113,text,104-1,Times
+1114,text,105-1,Items used on this facility
+1115,text,106-1,Enhance Facility
+1116,text,107-1,There was no effect...
+1117,text,108-1,Pop. and price 
+1118,text,109-1,Price 
+1119,text,110-1,Popularity 
+1120,text,111-1,went down...
+1121,text,112-1,went slightly up.
+1122,text,113-1,went up!
+1123,text,114-1,went up a lot!
+1124,text,115-1,New discovery!
+1125,text,116-1,Plus!
+1126,text,117-1,New Facility
+1127,text,118-1,New Target
+1128,text,119-1,New Effect
+1129,text,120-1,
+1130,text,121-1,Now unlocked: <co=3c64c8><0></co>!
+1131,text,122-1,New target: <co=3c64c8><0></co>!
+1132,text,123-1,<0> people added to your clientele!
+1133,text,124-1,New bath effect unlocked: <co=3c64c8><0></co>!
+1134,text,125-1,Earnings (M)
+1135,text,126-1,Earnings (Y)
+1136,text,127-1,Trophies Won
+1137,text,128-1,Max Scnry
+1138,text,129-1,Stayers
+1139,text,130-1,<0>/month
+1140,text,131-1,Compat.
+1141,text,132-1,Highest scenery at inn
+1142,text,133-1,Number of overnight stayers
+1143,text,134-1,Total monthly maintenance
+1144,text,135-1,Bought
+1145,text,136-1,Fees
+1146,text,137-1,Built
+1147,text,138-1,Investments
+1148,text,139-1,Prizes
+1149,text,140-1,Guests
+1150,text,141-1,Yearly
+1151,text,142-1,Monthly
+1152,text,143-1,Guest Record
+1153,text,144-1,Amount Spent
+1154,text,145-1,In
+1155,text,146-1,Day #<0>
+1156,text,147-1,Showing the last <0> records
+1157,text,148-1,Targets
+1158,text,149-1,Advertise to these targets:
+1159,text,150-1,None
+1160,text,151-1,Guest Info
+1161,text,152-1,Day Guest
+1162,text,153-1,Stayer
+1163,text,154-1&674-1,<0>
+1164,text,155-1,Satisfaction
+1165,text,156-1,Displaying guest info
+1166,text,157-1,Facilities this guest used
+1167,text,158-1,Change Targets
+1168,text,159-1,<0>
+1169,text,160-1,More 　 = harder to please
+1170,text,161-1,[None]
+1171,text,162-1,Very Easy
+1172,text,163-1,Easy
+1173,text,164-1,Slightly Hard
+1174,text,165-1,Hard
+1175,text,166-1,Very Hard
+1176,text,167-1,Super Hard
+1177,text,168-1,Stays
+1178,text,169-1,Buy Items
+1179,text,170-1,Out of stock
+1180,text,171-1,Owned
+1181,text,172-1,Touch “Confirm” to buy
+1182,text,173-1,Investment List
+1183,text,174-1,Select an investment
+1184,text,175-1,No investments available
+1185,text,176-1,In progress
+1186,text,177-1,That investment is complete
+1187,text,178-1,<0> complete
+1188,text,179-1,<0>: <1> Issue
+1189,text,180-1,Ranking
+1190,text,181-1,Last
+1191,text,182-1,Points
+1192,text,183-1,
+1193,text,184-1,pts
+1194,text,185-1,<0>
+1195,text,186-1,At <co=3c64c8><0></co>,
+1196,text,187-1,<co=3c64c8><0></co> gave <co=3c64c8><1> vote(s)</co>.
+1197,text,188-1,Top 3 Voters
+1198,text,189-1,has come to your inn.
+1199,text,190-1,Item List
+1200,text,191-1,Owned
+1201,text,192-1,Touch “Confirm” to use
+1202,text,193-1,Item List
+1203,text,194-1,Times Used
+1204,text,195-1,<0>
+1205,text,196-1,Investment Proposal
+1206,text,197-1,<0>
+1207,text,198-1,Summary
+1208,text,199-1,Length
+1209,text,200-1,About <0>M
+1210,text,201-1,About <0>M & <1>W
+1211,text,202-1,About <0>W
+1212,text,203-1,When
+1213,text,204-1,<0>AM tomorrow
+1214,text,205-1,Invest
+1215,text,206-1,Detailed Expenses
+1216,text,207-1,Name
+1217,text,208-1,<0>
+1218,text,209-1,Guidebooks
+1219,text,210-1,Copies
+1220,text,211-1,Inns
+1221,text,212-1,Rank
+1222,text,213-1,<0>K
+1223,text,214-1,<0>
+1224,text,215-1,None
+1225,text,216-1,Enter
+1226,text,217-1,Currently entered
+1227,text,218-1, Ceremony
+1228,text,219-1,Facilities
+1229,text,220-1,Profit
+1230,text,221-1,All
+1231,text,222-1,All Facilities
+1232,text,223-1, List 
+1233,text,224-1,Uses/yr
+1234,text,225-1,Tap “Confirm” to warp to facility
+1235,text,226-1,Location: <0>, <1>
+1236,text,227-1,Guest List
+1237,text,228-1,No.
+1238,text,229-1,List
+1239,text,230-1,Room
+1240,text,231-1,Stay
+1241,text,232-1,Day <0>
+1242,text,233-1,Tap “Confirm” to follow guest
+1243,text,234-1,Scenery Ranking
+1244,text,235-1,Top 10 Scenic Facilities
+1245,text,236-1,Compatibility Guide
+1246,text,237-1, and 
+1247,text,238-1, or 
+1248,text,239-1,Cannot make yet
+1249,text,240-1,Not present at your inn
+1250,text,241-1,<0> present at your inn
+1251,text,242-1,You have no items.
+1252,text,243-1,Not entered.
+1253,text,244-1,Overwrite current progress?
+1254,text,245-1,Delete current progress?
+1255,text,246-1,Limit reached. Use "Remove" on like units before building.
+1256,text,247-1,Scroll to select a location. Keep your finger on the item while scrolling to make fine adjustments. Tap to build.
+1257,text,248-1,Let's lay down some floorboards! Tap to set a starting point, then drag. Tap again to build.
+1258,text,249-1,No combinations with this facility were found.
+1259,text,250-1,Already set.
+1260,text,251-1,Max of 3 investments reached.
+1261,text,252-1,That's a pretty good score! Move the scroll bar down to see the details.
+1262,text,253-1,You got a prize of <1> <co=000080><0></co>.
+1263,text,254-1,You don't have that item.
+1264,text,255-1,You have already invested.
+1265,text,256-1,Invest <1> in<br><0>?
+1266,text,257-1,Apply to <0>?
+1267,text,258-1,You got <co=000080><0></co>.
+1268,text,259-1,Voting results are this month.
+1269,text,260-1,Voting results are next month.
+1270,text,261-1,That room is already reserved.
+1271,text,262-1,That room is not connected to the entrance.
+1272,text,263-1,A blue square shows where you can build.
+1273,text,264-1,A red square shows what you can remove.
+1274,text,265-1,Now following this guest. Tap again to see detailed info.
+1275,text,266-1,Building <0>...
+1276,text,267-1,Remove <0>
+1277,text,268-1,Remove until where?
+1278,text,269-1,Start <0> where?
+1279,text,270-1,Place until where?
+1280,text,271-1,Spr
+1281,text,272-1,Sum
+1282,text,273-1,Aut
+1283,text,274-1,Wnt
+1284,text,275-1,<co=008000><0></co> is complete.
+1285,text,276-1,-<0> in monthly maintenance.
+1286,text,277-1,Select a room.
+1287,text,278-1,<co=c80000>Insufficient rooms</co>.
+1288,text,279-1,You got <co=000080><0></co>.
+1289,text,280-1,You got <1> <co=000080><0></co>.
+1290,text,281-1,+<co=000080><1></co> to <co=000080><0></co>'s scenery.
+1291,text,282-1,Kairo News
+1292,text,283-1,Visit us at Kairo Park.
+1293,text,284-1,Check out Kairo Park Apps.
+1294,text,285-1,Quit the game and head to
+1295,text,286-1,Head to Kairo Park?
+1296,text,287-1,Head to our App intro page?
+1297,text,288-1,OK
+1298,text,289-1,Quit the game
+1299,text,290-1,Stay up-to-date with the
+1300,text,291-1,latest Kairo Park info!
+1301,text,292-1,Build and manage the
+1302,text,293-1,ultimate hot springs inn.
+1303,text,294-1,Develop a million-selling
+1304,text,295-1,game in this simulation.
+1305,text,296-1,Take your game company
+1306,text,297-1,to the top of the industry.
+1307,text,298-1,Enter Kairo Park
+1308,text,299-1,Advertising ↑
+1309,text,300-1,Items ↑
+1310,text,301-1,Stayers ↑
+1311,text,302-1,Money ↑
+1312,text,303-1,Facilities ↑
+1313,text,304-1,Votes ↑
+1314,text,305-1,Room
+1315,text,306-1,Both:
+1316,text,307-1,<0>:
+1317,text,308-1,Flower Garden
+1318,text,309-1,Fashion Show
+1319,text,310-1,Loading
+1320,text,311-1,Please enter a name.
+1321,text,312-1,Enter up to <0> characters.
+1322,text,313-1,Yr <0> Mn <1> Wk <2>
+1323,text,314-1,Load failed.
+1324,text,315-1,Could not read data.
+1325,text,316-1,Make sure to allow connection to network and check your signal strength.
+1326,text,317-1,Make sure to allow connection to network and<br>check your signal quality.
+1327,text,318-1,Authentication failed.
+1328,text,319-1,A server error has occurred.
+1329,text,320-1,A data error has occurred.<br>Please re-install the application.
+1330,text,321-1,An error has occurred.<br>Please restart the application.
+1331,text,322-1,Could not start game.
+1332,text,323-1,Auto <0>
+1333,text,324-1,Save <0>
+1334,text,325-1,Send all data
+1335,text,326-1,Show error log
+1336,text,327-1,Send all data?
+1337,text,328-1,Send Autosave Data <0>?
+1338,text,329-1,Send Save Data <0>?
+1339,text,330-1,Data sent.<br>Thanks for your cooperation.<br>We hope you'll stick with us!
+1340,text,331-1,An error has occurred.<br>Retry?
+1341,text,332-1,Send Save Data
+1342,text,333-1,Choose data to send.
+1343,text,334-1,Sending data
+1344,text,335-1,Do not turn the device off.
+1345,text,336-1,Message
+1346,text,337-1,Error
+1347,text,338-1,Lite Version
+1348,text,339-1,Hot Springs Story Lite
+1349,text,340-1,An error has occurred.
+1350,text,341-1,Mall Name
+1351,text,342-1,Mega Mall Story
+1352,text,343-1,Lite
+1353,text,344-1,Quit game and<br>access app page?
+1354,text,345-1,Yes\tNo
+1355,text,346-1,With the Lite Version of the game, you can play until April of the second game year.
+1356,text,347-1,Sunny Mall
+1357,text,348-1,None
+1358,text,349-1,Start
+1359,text,350-1,Hi Scores
+1360,text,351-1,Slot
+1361,text,352-1,Resume
+1362,text,353-1,Load Data
+1363,text,354-1,No autosave data
+1364,text,355-1,Empty
+1365,text,356-1,Y<0> M<1> W<2>
+1366,text,357-1,
+1367,text,358-1,Select data to load.
+1368,text,359-1,No save data found
+1369,text,360-1,Hi Scores
+1370,text,361-1,Max Clear Points
+1371,text,362-1,Max Funds Until Y<0>
+1372,text,363-1,Hi Scores
+1373,text,365-1,Out of bounds.
+1374,text,366-1,<0> cannot be moved.
+1375,text,367-1,Mall popularity increased by <0>.
+1376,text,368-1,There is already something there.
+1377,text,369-1,Up to 2 elevators per floor.
+1378,text,370-1,There is already something there.
+1379,text,371-1,There is no building surface there!
+1380,text,372-1,You can't build without a surface.
+1381,text,373-1,You can't build that underground.
+1382,text,374-1,You can't build that above ground.
+1383,text,375-1,There is already something there.
+1384,text,376-1,Up to 2 stairways per floor.
+1385,text,377-1,Up to 2 escalators per floor.
+1386,text,378-1,There is no building surface there!
+1387,text,379-1,You can't put that there.
+1388,text,380-1,You can't remove the entrance.
+1389,text,381-1,There is an upper floor.
+1390,text,382-1,There is a lower floor.
+1391,text,383-1,That will create a floating area.
+1392,text,384-1,That will create a cut-off area.
+1393,text,385-1,Res. Area
+1394,text,386-1,Mall
+1395,text,387-1,Office Area
+1396,text,388-1,Park
+1397,text,389-1,Investment added to <0>.
+1398,text,390-1,"Invest" menu item added.
+1399,text,391-1,Secretary
+1400,text,392-1,Pumpkin Products
+1401,text,393-1,Food
+1402,text,394-1,Home
+1403,text,395-1,Elec
+1404,text,396-1,Beaut
+1405,text,397-1,Enter
+1406,text,398-1,Facil
+1407,text,399-1,Other
+1408,text,400-1,Qual
+1409,text,401-1,Rep
+1410,text,402-1,Price
+1411,text,403-1,Maint
+1412,text,404-1,Stock
+1413,text,405-1,Bonus
+1414,text,406-1,MAX
+1415,text,408-1,B<0>F
+1416,text,409-1,<1> on <0> can level up!
+1417,text,410-1,This is a depression.
+1418,text,411-1,We have to ride it out.
+1419,text,412-1,The economy is bad.
+1420,text,413-1,It may affect us.
+1421,text,414-1,The economy is OK.
+1422,text,415-1,It's business as usual.
+1423,text,416-1,The economy is good.
+1424,text,417-1,Take advantage of it.
+1425,text,418-1,An economic boom!
+1426,text,419-1,We're doing great!
+1427,text,420-1,Looks like rain.
+1428,text,421-1,Scattered showers.
+1429,text,422-1,Very rainy now.
+1430,text,423-1,Snowy this month.
+1431,text,424-1,Blizzards this month.
+1432,text,425-1,Fever has ended.
+1433,text,426-1,It's closing time.
+1434,text,427-1,Maint. costs paid / stock refilled.
+1435,text,428-1,Advertising isn't very effective.
+1436,text,429-1,Advertising complete. Pop +<0>.
+1437,text,430-1,"Hold Sale" menu item added.
+1438,text,431-1,Poor
+1439,text,432-1,Low
+1440,text,433-1,Normal
+1441,text,434-1,Good
+1442,text,435-1,High
+1443,text,436-1,Max
+1444,text,437-1,Pamphlets
+1445,text,438-1,Online Ads
+1446,text,439-1,Print Ads
+1447,text,440-1,Ad Blimp
+1448,text,441-1,TV Ads
+1449,text,442-1,Distribute advertising materials.
+1450,text,443-1,Take out online banner ads.
+1451,text,444-1,Take out magazine ads.
+1452,text,445-1,Hire an advertising blimp.
+1453,text,446-1,Take out TV commercials.
+1454,text,447-1,Mach
+1455,text,448-1,King
+1456,text,449-1,Bargain
+1457,text,450-1,Price
+1458,text,451-1,Big
+1459,text,452-1,Magic
+1460,text,453-1,Product
+1461,text,454-1,Crazy
+1462,text,455-1,Dark
+1463,text,456-1,Giant
+1464,text,457-1,Hammer
+1465,text,458-1,Sales
+1466,text,459-1,Best
+1467,text,460-1,Fun
+1468,text,461-1,Food
+1469,text,462-1,Family
+1470,text,463-1,Super
+1471,text,464-1, Park
+1472,text,465-1, Land
+1473,text,466-1, Mart
+1474,text,467-1, Market
+1475,text,468-1, Station
+1476,text,469-1, Empire
+1477,text,470-1, Kingdom
+1478,text,471-1, Carnival
+1479,text,472-1, World
+1480,text,473-1, Champ
+1481,text,474-1, Mall
+1482,text,475-1, Town
+1483,text,476-1, Dojo
+1484,text,477-1, Village
+1485,text,478-1, Time
+1486,text,479-1, House
+1487,text,480-1,<0> has left the area!
+1488,text,481-1,The latest Mall News is out.
+1489,text,482-1,You don't have enough funds.
+1490,text,483-1,You don't have enough hearts.
+1491,text,484-1,Hallway
+1492,text,485-1,Stock
+1493,text,486-1,Yearly: <0>
+1494,text,487-1,<0> people until level up
+1495,text,488-1,Place where?
+1496,text,489-1,Start placing the <0> where?
+1497,text,490-1,Where do you want it to end?
+1498,text,491-1,Cost: <0>
+1499,text,492-1,You can't build there.
+1500,text,493-1,You can also remove stairways.
+1501,text,494-1,You can also remove escalators.
+1502,text,495-1,Remove what?
+1503,text,496-1,Which store do you want to move?
+1504,text,497-1,Where do you want to move it?
+1505,text,498-1,You can't move it there.
+1506,text,499-1,Hold a sale where? (10 hearts)
+1507,text,500-1,Next month is the Sales Season.
+1508,text,501-1,Store #<0>
+1509,text,502-1,"Buy Plans" menu item added.
+1510,text,503-1,Summer Sales Season has begun!
+1511,text,504-1,Holiday Sales Season has begun!
+1512,text,505-1,Sales
+1513,text,506-1,Costs
+1514,text,507-1,Total
+1515,text,508-1,Build
+1516,text,509-1,Invest
+1517,text,510-1,Actions
+1518,text,511-1,Info
+1519,text,512-1,System
+1520,text,513-1,Buy Plans
+1521,text,514-1,Hire Staff
+1522,text,515-1,Advertise
+1523,text,516-1,Hold Sale
+1524,text,517-1,Overall
+1525,text,518-1,Ledger
+1526,text,519-1,Combos
+1527,text,520-1,Store List
+1528,text,521-1,Customers
+1529,text,522-1,Rank Up
+1530,text,523-1,Save
+1531,text,524-1,Settings
+1532,text,525-1,How to Play
+1533,text,526-1,Title Screen
+1534,text,527-1,Continue
+1535,text,528-1,New Game
+1536,text,529-1,Delete
+1537,text,530-1,Very Easy
+1538,text,531-1,Easy
+1539,text,532-1,Tricky
+1540,text,533-1,Hard
+1541,text,534-1,Very Hard
+1542,text,535-1,Buy Skills
+1543,text,536-1,Sell Skills
+1544,text,537-1,Secret Plans
+1545,text,538-1,Return
+1546,text,539-1,OK
+1547,text,540-1,Saving game...
+1548,text,541-1,You have no facilities in your mall.
+1549,text,542-1,You have nothing to sell.
+1550,text,543-1,You have no skills.
+1551,text,544-1,There are no applicants.
+1552,text,545-1,Message
+1553,text,546-1,<0> Dev.
+1554,text,547-1,Conversation Window
+1555,text,548-1,Event
+1556,text,549-1,Settings
+1557,text,550-1,Speed
+1558,text,551-1,Music
+1559,text,552-1,SFX
+1560,text,553-1,Currency
+1561,text,554-1,Screen
+1562,text,555-1,Fast
+1563,text,556-1,Normal
+1564,text,557-1,￥
+1565,text,558-1,＄
+1566,text,559-1,Auto
+1567,text,560-1,Fixed
+1568,text,561-1,Adjust the game speed.
+1569,text,562-1,Beat the game to unlock.
+1570,text,563-1,Adjust the game volume.
+1571,text,564-1,
+1572,text,565-1,Switch currency to yen/dollars.
+1573,text,566-1,Note that ￥100 = $1.
+1574,text,567-1,Choose to automatically
+1575,text,568-1,rotate the screen or not.
+1576,text,569-1,About this Game
+1577,text,570-1,(C) Kairosoft Co., Ltd.
+1578,text,571-1,Mall News
+1579,text,572-1,Stores
+1580,text,573-1,Special
+1581,text,574-1,Remove
+1582,text,575-1,Move
+1583,text,576-1,What do you want to remove?
+1584,text,577-1,Store Balance
+1585,text,578-1,This Year
+1586,text,579-1,Last Year
+1587,text,580-1,2 Yrs Ago
+1588,text,581-1,Monthly Profit
+1589,text,582-1,Yearly Profit
+1590,text,583-1,Overall Rank
+1591,text,584-1,Total Rep
+1592,text,585-1,Average Price
+1593,text,586-1,Total Maint.
+1594,text,587-1,Regulars
+1595,text,588-1,Max M. Sales
+1596,text,589-1,Abv
+1597,text,590-1,Undr
+1598,text,591-1,#<0>
+1599,text,592-1,<0>F
+1600,text,594-1,Share
+1601,text,595-1,New: 
+1602,text,596-1,
+1603,text,597-1,
+1604,text,598-1,can now be built.
+1605,text,599-1,Combos
+1606,text,600-1,Can Build
+1607,text,601-1,Can't Build
+1608,text,602-1,Present in mall
+1609,text,603-1,Not present in mall
+1610,text,604-1,Thanks for your purchase.
+1611,text,605-1,Tenant Info
+1612,text,606-1,Bonus Name
+1613,text,607-1,Effect
+1614,text,608-1,At max level
+1615,text,609-1,New Service
+1616,text,610-1,Store Name
+1617,text,611-1,Lvl.
+1618,text,612-1,Max Stock
+1619,text,613-1,Until Next Level
+1620,text,614-1,Maint.
+1621,text,615-1,Services
+1622,text,616-1,Bonuses
+1623,text,617-1,Stairs
+1624,text,618-1,Escal.
+1625,text,619-1,Elev.
+1626,text,620-1,Monthly
+1627,text,621-1,Yearly
+1628,text,622-1,Income
+1629,text,623-1,Expenses
+1630,text,624-1,Construction
+1631,text,625-1,Staff
+1632,text,626-1,Visitors
+1633,text,627-1,Level Up
+1634,text,628-1,Next
+1635,text,629-1,Bonus Points
+1636,text,630-1,Allocate bonus points.
+1637,text,631-1,Left
+1638,text,632-1,Makes it easier to sell a lot.
+1639,text,633-1,Affects number of customers.
+1640,text,634-1,Makes it harder to sell out.
+1641,text,635-1,Finish allocating points.
+1642,text,636-1,Done
+1643,text,637-1,Skill List
+1644,text,638-1,No. <0>
+1645,text,640-1,Topic
+1646,text,641-1,Pumpkin Products
+1647,text,642-1,Present
+1648,text,643-1,Buy plans for which store?
+1649,text,644-1,Name
+1650,text,645-1,Add Services
+1651,text,646-1,<0> will be added.
+1652,text,647-1,<0> added.
+1653,text,648-1,Difficulty
+1654,text,649-1,Cost
+1655,text,650-1,Add
+1656,text,651-1,Cancel
+1657,text,652-1,Service
+1658,text,653-1,????
+1659,text,654-1,Tap Confirm to add.
+1660,text,655-1,Researching new service...
+1661,text,656-1,Success
+1662,text,657-1,<0> added!
+1663,text,658-1,Failed...
+1664,text,659-1,Customer List
+1665,text,660-1,Customers in Store
+1666,text,661-1,Customers in Area
+1667,text,662-1,Regulars
+1668,text,663-1,Number in Store:
+1669,text,664-1,Number in Area:
+1670,text,665-1,Number of Regulars:
+1671,text,666-1,Users
+1672,text,667-1,Regular Info
+1673,text,668-1,Likes
+1674,text,669-1,#1
+1675,text,670-1,#2
+1676,text,671-1,#3
+1677,text,672-1,resident
+1678,text,673-1,Visits
+1679,text,675-1,Close
+1680,text,676-1,Follow
+1681,text,677-1,Talk
+1682,text,678-1,Customer Info
+1683,text,679-1, to be a regular.
+1684,text,680-1,Choose Floor Manager
+1685,text,681-1,Floors
+1686,text,682-1,Staff Member
+1687,text,683-1,9F ⇔ 12F
+1688,text,684-1,5F ⇔  8F
+1689,text,685-1,1F ⇔  4F
+1690,text,686-1,B1F ⇔ B3F
+1691,text,687-1,None
+1692,text,688-1,Attent
+1693,text,689-1,Serv.
+1694,text,690-1,Sal.
+1695,text,691-1,Staff Info
+1696,text,692-1,<0>
+1697,text,693-1,<0> stores
+1698,text,694-1,+<0>
+1699,text,695-1,Cont.
+1700,text,696-1,Salary
+1701,text,697-1,Dismiss
+1702,text,698-1,Hire
+1703,text,699-1,Results
+1704,text,700-1,This year's highest sales
+1705,text,701-1,#
+1706,text,702-1,You got a prize of <0>
+1707,text,703-1,<0> is
+1708,text,704-1,now a <0>-star mall!
+1709,text,705-1,Advertising Policy
+1710,text,706-1,Total Ad Costs
+1711,text,707-1,/M
+1712,text,708-1,On
+1713,text,709-1,Off
+1714,text,710-1,Mall Expansion
+1715,text,711-1,Up to 8F
+1716,text,712-1,Up to 12F
+1717,text,713-1,Up to B3F
+1718,text,714-1,can now be built!
+1719,text,715-1,Your mall can now be wider!
+1720,text,716-1,Someone new from the <0>
+1721,text,717-1,has started coming to the mall!
+1722,text,718-1,is satisfied with the <0>
+1723,text,719-1,and is now a regular!
+1724,text,720-1,<0> has introduced
+1725,text,721-1, to you.
+1726,text,722-1,
+1727,text,723-1,<0>
+1728,text,724-1,has started coming to the mall!
+1729,text,725-1&727-1&731-1,<0>
+1730,text,726-1,gave you <0> hearts!
+1731,text,728-1,gave you <0> Popularity.
+1732,text,729-1,<0>
+1733,text,730-1,can now be hired.
+1734,text,732-1,gave you <0>.
+1735,text,733-1,It is now easier for customers
+1736,text,734-1,to come on rainy days!
+1737,text,735-1,Customers are now not as
+1738,text,736-1,affected by a bad economy!
+1739,text,737-1,Conditions
+1740,text,738-1,<0>+
+1741,text,739-1,Met
+1742,text,740-1,Not Met
+1743,text,741-1,Monthly Sales
+1744,text,742-1,Stores
+1745,text,743-1,<0>+
+1746,text,744-1,<0>+
+1747,text,745-1,Build a <0>
+1748,text,746-1,Apply
+1749,text,747-1,Quit the game and<br>go to the title screen?
+1750,text,748-1,Current save data<br>will be overwritten.
+1751,text,749-1,Current save data<br>will be deleted.
+1752,text,750-1,Game saved.
+1753,text,751-1,Service cannot be added.
+1754,text,752-1,Some bonus points are left.<br>Are you sure you want to quit?
+1755,text,753-1,Quit shopping?
+1756,text,754-1,You cannot purchase any more.
+1757,text,755-1,Combo purchased: <0>!
+1758,text,756-1,You sold a <0>!
+1759,text,757-1,You don't have enough funds.
+1760,text,758-1,You don't have enough hearts.
+1761,text,759-1,<0> dev. started
+1762,text,760-1,No new development plans.
+1763,text,761-1,Perform <0> dev.<br>Cost: <1>
+1764,text,762-1,New stores can now be purchased.
+1765,text,763-1,New staff can now be hired.
+1766,text,764-1,<0> hired!
+1767,text,765-1,"Hire Staff" menu item added.
+1768,text,766-1,Nearby Area
+1769,text,767-1,Users
+1770,text,768-1,Regulars
+1771,text,769-1,
+1772,text,770-1,Invest
+1773,text,771-1,Rival Info
+1774,text,772-1,Residents
+1775,text,773-1,Now developing <0>.
+1776,text,774-1,Please wait.
+1777,text,775-1,All plans completed.
+1778,text,776-1,No new plans.
+1779,text,777-1,Rival Info
+1780,text,778-1,Office Area
+1781,text,779-1,Sale Bonus
+1782,text,780-1,Staff Bonus
+1783,text,781-1,<0> Compatibility
+1784,text,782-1,High Floor Bonus
+1785,text,783-1,Mid Floor Bonus
+1786,text,784-1,Underground Bonus
+1787,text,785-1,Clear Points
+1788,text,786-1,And now without further ado...
+1789,text,787-1,Your Clear Pts will be calculated.
+1790,text,788-1,Final Funds:
+1791,text,789-1,Number of Regulars:
+1792,text,790-1,Total Visitors:
+1793,text,791-1,Total Hearts:
+1794,text,792-1,Stores Unlocked:
+1795,text,795-1,<0>
+1796,text,796-1,Amount added to Clear Points:
+1797,text,797-1, pts!
+1798,text,798-1,Now then...
+1799,text,799-1,That concludes the calculation
+1800,text,800-1,of your Clear Points.
+1801,text,801-1,Current Pts:
+1802,text,802-1,High Score:
+1803,text,803-1,<0> pts
+1804,text,804-1,<1>, with yearly sales of <0>.
+1805,text,805-1,Well done. You've reached the end of the Lite Version of the game.
+1806,text,806-1,In the Full Version, you can play as long as you like to develop the ultimate shopping mall.
+1807,text,807-1,On the following screen, you will be able to access the site for the Full Version of the game.
+1808,text,808-1,We hope to see you again soon!
+1809,text,809-1,Scroll around on the screen to select a location. Touch the item while moving to make fine adjustments.
+1810,text,810-1,To build a hallway, touch where you want to start building, then drag to the place you want it to stop.
+1811,text,811-1,You can turn the display of the buildable areas on or off using the soft button at the bottom left.
+1812,text,812-1,On the tenant info window, use the scroll bar to the right to scroll down and view more detailed information.
+1813,text,813-1,Our national rank was #<0>. We got bonuses totaling <1>.
+1814,text,814-1,I managed to make it all the way here, when by chance I found that I had won the lottery!
+1815,text,815-1,Our national rank was #<0>. We got bonuses totaling <1>.
+1816,text,816-1,I managed to make it all the way here, when by chance I found that I had won the lottery!
+1817,text,817-1,Until recently, I had been living at a nearby hot springs inn, eating bananas, but they kicked me out...
+1818,text,818-1,Hello there.
+1819,text,819-1,So I've decided to stay here for the moment and enjoy some shopping. I'll see you around!
+1820,text,820-1,The store with the highest sales this year was...
+1821,text,821-1,Let's go see.
+1822,text,822-1&824-1,Let's try to aim for the top of the rankings next year as well.
+1823,text,823-1,The national rankings are based on more than sales. Store Reputation and Quality are also taken into account.
+1824,text,825-1,<1>, with yearly sales of <0>.
+1825,text,826-1,You can use the "Move" command to move an existing store or facility to an empty location.
+1826,text,827-1,However, you cannot move items like stairs.
+1827,text,828-1,Hints On
+1828,text,829-1,Hints Off
+1829,text,830-1&832-1,<0> in Monthly Sales
+1830,text,831-1,According to our calculations, <0> has recently reached <1> in monthly sales. When reached by phone for comment, a part-time worker at the store said, "Well what do you know? This is the first I've heard of it." Inspiring stuff... Let's hope management will use a little of that money to bring in some new stores.
+1831,text,833-1,We have just learned that <0> has surpassed <1> in sales. This news has sent shockwaves through the mall industry, as many try to discover this newcomer's secret. A member of our staff who secretly visited the mall incognito reported that the stores were attractive and well arranged, and that he enjoyed shopping there. In fact, he came home loaded down with bags full of souvenirs purchased without permission. We hope we will have enough money left to continue publication...
+1832,text,834-1,<0> Spent!
+1833,text,835-1,We have recently learned that a customer shopping at <0>'s <1> spent more than <2> in a single visit! The cashier could barely hide her surprise as the customer kept buying item after item. This is just more proof of the deep roots that <0> has put down in the community.
+1834,text,836-1,Get the full version
+1835,text,837-1,to upload your Screen!
+1836,text,838-1,Please use the account you used to purchase the app and check your signal.
+1837,text,839-1,Authentication failed. Please use the account you used to purchase the app and check your signal.
+1838,text,840-1,error
+1839,lib.language,0-0,<po=c>The display area stream now larger and can also be viewed stream <co=3366ff>landscape mode</co>!
+1840,lib.language,1-0,You've successfully removed ads from the game!
+1841,lib.language,2-0,You can also rotate the display if your device supports it! Toggle this on or off via \"System\" > \"Options.\"
+1842,lib.language,3-0,Maybe the new display will offer fresh perspectives on the game! Enjoy!
+1843,lib.language,4-0,Please ensure connections are enabled, check your signal, and restart the app. Some features may be inaccessible with connections disabled.
+1844,lib.language,5-0,Message
+1845,lib.language,6-0,Message
+1846,lib.language,7-0,Transmitting
+1847,lib.language,8-0,OK
+1848,lib.language,9-0,Welcome!
+1849,lib.language,10-0,Sold Out
+1850,lib.language,11-0,Heh heh. Which do you want?
+1851,lib.language,12-0,A communication error occurred.
+1852,lib.language,13-0,Buy Items
+1853,lib.language,14-0,Read Terms of Use (Required)
+1854,lib.language,15-0,Accept terms and proceed.
+1855,lib.language,16-0,Restart after purchase to claim items.
+1856,lib.language,17-0,Proceed
+1857,lib.language,18-0,Accept terms and proceed
+1858,lib.language,19-0,Alert
+1860,lib.language,21-0,Select a Shop
+1861,lib.language,22-0,Pumpkin Products
+1862,lib.language,23-0,Ticket Shop
+1863,lib.language,24-0,Oh, dear... We <co=60,100,200>can't seem to contact</co> corporate HQ.
+1864,lib.language,25-0,Come back to the shop after checking your signal and communications status.
+1865,lib.language,26-0,Our usual impressive selection of products should be available to you then.
+1866,lib.language,27-0,We'll be waiting!
+1867,lib.language,28-0,Here we sell tickets--premium items not easily found anywhere else stream the world.
+1868,lib.language,29-0,They're a bit pricey, so think carefully before buying, okay?
+1869,lib.language,30-0,Heh heh.
+1870,lib.language,31-0,Welcome!
+1871,lib.language,32-0,Ah, unfortunately we're <co=60,100,200>sold out</co> of that, but please have a look at our other offerings.
+1872,lib.language,33-0,You can't exceed <0> tickets.
+1873,lib.language,34-0,Ah, an excellent choice.
+1874,lib.language,35-0,This wonderful item can only be purchased with <co=60,100,200>actual, real-life money</co>.
+1875,lib.language,36-0,Children must check with a <co=60,100,200>parent or guardian</co> before making purchases.
+1876,lib.language,37-0,This shop will be open at all times now, so stop by anytime.
+1877,lib.language,38-0,Come again!
+1878,lib.language,39-0,<0>
+1879,lib.language,40-0,Play time: <0> hr <1> min
+1880,lib.language,41-0,Friend Request
+1881,lib.language,42-0,You can register up to five<br>friends. You'll earn bonuses<br>at game startup based on their<br>total play time. Ask friends for<br>their IDs to add them.
+1882,lib.language,43-0,Nickname
+1883,lib.language,44-0,nickname
+1884,lib.language,45-0,Enter a nickname.
+1885,lib.language,46-0,Nickname cannot include spaces.
+1886,lib.language,47-0,Contains one or more unusable characters.
+1887,lib.language,48-0,Friend's ID
+1888,lib.language,49-0,friend's ID
+1889,lib.language,50-0,Enter your friend's ID.
+1890,lib.language,51-0,Congratulations! You get a bonus for registering a new <co=60,100,200>friend</co>!
+1891,lib.language,52-0,If you both continue playing, you'll earn more bonuses stream the future!
+1892,lib.language,53-0,By the way, <co=255,0,0>don't delete this app</co> or all of your friend data will be lost for good.
+1893,lib.language,54-0,Getting Started
+1894,lib.language,55-0,Please enter your nickname.
+1895,lib.language,56-0,Tap here
+1896,lib.language,57-0,It can be changed later.
+1897,lib.language,58-0,OK
+1898,lib.language,59-0,Enter a new nickname.
+1899,lib.language,60-0,<0>  <1> hr <2> min
+1900,lib.language,61-0,Last Played
+1901,lib.language,62-0,Total:
+1902,lib.language,63-0,<0> hr <1> min
+1903,lib.language,64-0,has sent a friend request.
+1904,lib.language,65-0,<0> other(s)
+1905,lib.language,66-0,Find a friend
+1906,lib.language,67-0,Help
+1907,lib.language,68-0,Share ID
+1908,lib.language,69-0,Your ID (tap to share)
+1909,lib.language,70-0,Search here
+1910,lib.language,71-0,Enter here
+1911,lib.language,72-0,Search
+1912,lib.language,73-0,Message
+1913,lib.language,74-0,Approval may take time.
+1914,lib.language,75-0,Request
+1915,lib.language,76-0,Cancel
+1916,lib.language,77-0,Friend request sent to
+1917,lib.language,78-0,Please wait for approval.
+1918,lib.language,79-0,Message
+1919,lib.language,80-0,Close
+1920,lib.language,81-0,Updates may take time.
+1921,lib.language,82-0,Approve
+1922,lib.language,83-0,Decline
+1923,lib.language,84-0,Friend Added
+1924,lib.language,85-0,New Friend
+1925,lib.language,86-0,<co=0070FF><0></co><br>added.
+1926,lib.language,87-0,You may receive bonuses.
+1927,lib.language,88-0,The player will not be notified.
+1928,lib.language,89-0,Delete
+1929,lib.language,90-0,Back
+1930,lib.language,91-0,Delete<br><0>?
+1931,lib.language,92-0,About Friends
+1932,lib.language,93-0,Friend Bonus (every <0> min)
+1933,lib.language,94-0,You got a friend bonus of <co=254,233,1><0></co> hr <co=254,233,1><1></co> min.
+1934,lib.language,95-0,(Max)
+1935,lib.language,96-0,Claim
+1936,lib.language,97-0,Next Time
+1937,lib.language,98-0,Friend Bonus
+1938,lib.language,99-0,You got<br><co=0070FF><0> tickets</co>.
+1939,lib.language,100-0,Friend Bonus
+1940,lib.language,101-0,New friends: <co=254,233,1><0></co>
+1941,lib.language,102-0,You've added<br><co=0,128,255><0></co>!
+1942,lib.language,103-0,Transmission failed. Check your settings and try again later.
+1943,lib.language,104-0,Please enter the shop code (for customer support only).
+1944,lib.language,105-0,Shop Code
+1945,lib.language,106-0,Receive save data
+1946,lib.language,107-0,Please enter your\ninquiry support code.
+1947,lib.language,108-0,Inquiry support code
+1948,lib.language,109-0,Recommended Apps
+1949,lib.language,110-0,Go to Title Screen
+1950,lib.language,111-0,Invite your friends!
+1951,lib.language,112-0,You can't register 0 points.
+1952,lib.language,113-0,You can't register <0>.
+1953,lib.language,114-0,Updating app...
+1954,lib.language,115-0,Authentication failed. Please use the account you used to purchase the app and check your signal.
+1955,lib.language,116-0,Please use the account you used to purchase the app and check your signal.
+1956,lib.language,117-0,Landscape mode available
+1957,lib.language,118-0,in the Full Version!
+1958,lib.language,119-0,Do not use: <0>
+1959,lib.language,120-0,Please enter a <0>.
+1960,lib.language,121-0,Loading
+1961,lib.language,122-0,Loading failed
+1962,lib.language,123-0,Start
+1963,lib.language,124-0,Slot
+1964,lib.language,125-0,Resume
+1965,lib.language,126-0,Load Data
+1966,lib.language,127-0,No autosave data
+1967,lib.language,128-0,Empty
+1968,lib.language,129-0,Yr <0>
+1969,lib.language,130-0,Mn <0> Wk <1>
+1970,lib.language,131-0,Do not use: / | < > \\
+1971,lib.language,132-0,Select data to load
+1972,lib.language,133-0,No save data found
+1973,lib.language,134-0,About the Game
+1974,lib.language,135-0,Max Clear Points
+1975,lib.language,136-0,None
+1976,lib.language,137-0,None
+1977,lib.language,138-0,Full Ver.
+1978,lib.language,139-0,Get the full version to upload your hi scores!
+1979,lib.language,140-0,Well done. You've finished the Lite version.
+1980,lib.language,141-0,After this you'll jump to our site, so check it out!
+1981,lib.language,142-0,Thanks for playing!
+1982,lib.language,143-0,The latest <0><br>is now on sale.
+1983,lib.language,144-0&3-0,Yes
+1984,lib.language,145-0&4-0,No
+1985,lib.language,146-0,System
+1986,lib.language,147-0&6-0,Save
+1987,lib.language,148-0,Options
+1988,lib.language,149-0,Help
+1989,lib.language,150-0,High Score
+1990,lib.language,151-0,Quit
+1991,lib.language,152-0,Continue
+1992,lib.language,153-0,New Game
+1993,lib.language,154-0,Build
+1994,lib.language,155-0,Info
+1995,lib.language,156-0,Items
+1996,lib.language,157-0,Title
+1997,lib.language,158-0,Subtotal: <0>
+1998,lib.language,159-0,Total: <0>
+1999,lib.language,160-0,<0>
+2000,lib.language,161-0,<0>
+2001,lib.language,162-0,<0>
+2002,lib.language,165-0,Saving game...
+2003,lib.language,166-0,Speech Window
+2004,lib.language,167-0,Event
+2005,lib.language,168-0,Options
+2006,lib.language,169-0,Priority
+2007,lib.language,170-0,Speed
+2008,lib.language,171-0,Music
+2009,lib.language,172-0,SFX
+2010,lib.language,173-0,Rotation
+2011,lib.language,174-0,Graphics
+2012,lib.language,175-0,Perf.
+2013,lib.language,176-0&33-0,Fast
+2014,lib.language,177-0,Normal
+2015,lib.language,178-0&27-0,Auto
+2016,lib.language,179-0,Lock
+2017,lib.language,180-0,Selecting “Perf.” prioritizes
+2018,lib.language,181-0,performance over graphics.
+2019,lib.language,182-0,Change the game's speed.
+2020,lib.language,183-0,(Unlocked after beating game.)
+2021,lib.language,184-0,Choose to automatically
+2022,lib.language,185-0,rotate the screen or not.
+2023,lib.language,186-0,Adjust the volume.
+2024,lib.language,187-0,
+2025,lib.language,188-0,(C) Kairosoft Co., Ltd.
+2026,lib.language,189-0,(C) Kairosoft Co., Ltd.
+2027,lib.language,190-0,Clear Points
+2028,lib.language,191-0,Page
+2029,lib.language,193-0&24-0,Next
+2030,lib.language,194-0,Maint.
+2031,lib.language,195-0,Base
+2032,lib.language,196-0,Bns
+2033,lib.language,197-0,Total
+2034,lib.language,198-0,Bonus
+2035,lib.language,199-0,Male
+2036,lib.language,200-0,Female
+2037,lib.language,201-0,Month <0>
+2038,lib.language,202-0,Maint.
+2039,lib.language,203-0,<0>/month
+2040,lib.language,204-0,None
+2041,lib.language,205-0&17-0,Price
+2042,lib.language,206-0,Stock
+2043,lib.language,207-0,Owned
+2044,lib.language,208-0&12-0,Complete
+2045,lib.language,209-0,In progress
+2046,lib.language,210-0,<0> complete
+2047,lib.language,211-0,<0>: <1> Issue
+2048,lib.language,212-0,Item List
+2049,lib.language,213-0,Owned
+2050,lib.language,214-0,Item List
+2051,lib.language,215-0,Times Used
+2052,lib.language,216-0,<0>
+2053,lib.language,217-0,<0>
+2054,lib.language,218-0,Summary
+2055,lib.language,219-0,Length
+2056,lib.language,220-0,Cost
+2057,lib.language,221-0,Name
+2058,lib.language,222-0,Rank
+2059,lib.language,223-0,Facilities
+2060,lib.language,224-0&11-0,All
+2061,lib.language,225-0,All Facilities
+2062,lib.language,226-0,List
+2063,lib.language,227-0,Overwrite current progress?
+2064,lib.language,228-0,Delete current progress?
+2065,lib.language,229-0,Save complete.
+2066,lib.language,230-0,Scroll to select a location. Keep your finger on the item while scrolling to make fine adjustments. Tap to build.
+2067,lib.language,231-0,Already set.
+2068,lib.language,232-0,You don't have enough money.
+2069,lib.language,233-0,You got <co=000080><0></co>.
+2070,lib.language,234-0,Now following this guest. Tap again to see detailed info.
+2071,lib.language,235-0,Building <0>...
+2072,lib.language,236-0,Remove <0>
+2073,lib.language,237-0,Remove until where?
+2074,lib.language,238-0,Start <0> where?
+2075,lib.language,239-0,Place until where?
+2076,lib.language,240-0,Spr
+2077,lib.language,241-0,Sum
+2078,lib.language,242-0,Aut
+2079,lib.language,243-0,Wnt
+2080,lib.language,244-0,<co=008000><0></co> is complete.
+2081,lib.language,245-0,-<0> in monthly maintenance.
+2082,lib.language,246-0,Kairo News
+2083,lib.language,247-0,Visit us at Kairo Park.
+2084,lib.language,248-0,Check out Kairo Park Apps.
+2085,lib.language,249-0,Quit the game and head to
+2086,lib.language,250-0,Head to Kairo Park?
+2087,lib.language,251-0,Head to our App intro page?
+2088,lib.language,252-0,OK
+2089,lib.language,253-0,Quit the game?
+2090,lib.language,254-0,Stay up-to-date with the
+2091,lib.language,255-0,latest Kairo Park info!
+2092,lib.language,256-0,Currency
+2093,lib.language,257-0,\\
+2094,lib.language,258-0,$
+2095,lib.language,259-0,Switch currency to yen/dollars.
+2096,lib.language,260-0,Note that ￥100 = ＄1.
+2097,lib.language,261-0,Enter Kairo Park
+2098,lib.language,262-0,Loading
+2099,lib.language,263-0,Please enter a name.
+2100,lib.language,264-0,Enter up to <0> characters.
+2101,lib.language,265-0,Yr <0> Mn <1> Wk <2>
+2102,lib.language,266-0,Load failed.
+2103,lib.language,267-0,Could not read data.
+2104,lib.language,268-0,Make sure to allow connection to network and check your signal strength.
+2105,lib.language,269-0,Make sure to allow connection to network and<br>check your signal quality.
+2106,lib.language,270-0,Authentication failed.
+2107,lib.language,271-0,A server error has occurred.
+2108,lib.language,272-0,A data error has occurred.<br>Please re-install the application.
+2109,lib.language,273-0,An error has occurred.<br>Please restart the application.
+2110,lib.language,274-0,Could not start game.
+2111,lib.language,275-0,Auto <0>
+2112,lib.language,276-0,Save <0>
+2113,lib.language,277-0&316-0,Send all data
+2114,lib.language,278-0,Show error log
+2115,lib.language,279-0,Send all data?
+2116,lib.language,280-0,Send Autosave Data <0>?
+2117,lib.language,281-0,Send Save Data <0>?
+2118,lib.language,282-0,Data sent.<br>Thanks for your cooperation.<br>We hope you'll stick with us!
+2119,lib.language,283-0,An error has occurred.<br>Retry?
+2120,lib.language,284-0,Send Save Data
+2121,lib.language,285-0,Choose data to send.
+2122,lib.language,286-0,Sending data
+2123,lib.language,287-0,Do not turn the device off.
+2124,lib.language,288-0,Error
+2125,lib.language,289-0,Lite Version
+2126,lib.language,290-0,An error has occurred.
+2127,lib.language,291-0,OK
+2128,lib.language,292-0,On the app settings screen, turn on all \"App Permissions\" and restart the app.
+2129,lib.language,293-0,Please wait...
+2130,lib.language,294-0,Authority: Please re-boot to allow the storage.<br>You will need to save the game.
+2131,lib.language,295-0,You can not start.
+2132,lib.language,296-0,Please shorten the content
+2133,lib.language,297-0,How to use TapJoy\n- Terminate \"Limit Ad Tracking\" and restart the game.\n* Setting app > Privacy > Advertising > Limit Ad Tracking
+2134,lib.language,0-0,Confirm
+2135,lib.language,1-0,Finish
+2136,lib.language,2-0,Back
+2137,lib.language,5-0,Check
+2138,lib.language,7-0,Menu
+2139,lib.language,8-0,Map
+2140,lib.language,9-0,Normal
+2141,lib.language,10-0,Depart
+2142,lib.language,13-0,Help
+2143,lib.language,14-0,Self
+2144,lib.language,15-0,Top
+2145,lib.language,16-0,Site
+2146,lib.language,18-0,Popular
+2147,lib.language,19-0,Start
+2148,lib.language,20-0,Edit
+2149,lib.language,21-0,Compat.
+2150,lib.language,22-0,Rotate
+2151,lib.language,23-0,Name
+2152,lib.language,25-0,Report
+2153,lib.language,26-0,Export
+2154,lib.language,28-0,Hint
+2155,lib.language,29-0,Order
+2156,lib.language,30-0,Note
+2157,lib.language,31-0,Defaults
+2158,lib.language,32-0,Remove
+2159,lib.language,34-0,Normal
+2160,lib.language,35-0,Cancel
+2161,lib.language,36-0,Sell
+2162,lib.language,37-0,Rename
+2163,lib.language,38-0,Details
+2164,lib.language,39-0,Guide
+2165,lib.language,40-0,Rotate
+2166,lib.language,41-0,Cancel
+2167,lib.language,42-0,Floor
+2168,lib.language,43-0,Info
+2169,lib.language,44-0,Auto
+2170,lib.language,45-0,Toggle
+2171,lib.language,46-0,Remove
+2172,lib.language,47-0,Skip
+2173,lib.language,48-0,Map
+2174,lib.language,49-0,Status
+2175,lib.language,50-0,Units
+2176,lib.language,51-0,Forfeit
+2177,lib.language,52-0,Tactics
+2178,lib.language,53-0,Sort
+2179,lib.language,54-0,Diagnose
+2180,lib.language,55-0,Save
+2181,lib.language,56-0,Menu
+2182,lib.language,57-0,Supplement
+2183,lib.language,58-0,Setting
+2184,lib.language,59-0,Down
+2185,lib.language,60-0,To top
+2186,lib.language,61-0,Liquidation
+2187,lib.language,62-0,Synthesis
+2188,lib.language,63-0,Fellow
+2189,lib.language,64-0,Tracking
+2190,lib.language,65-0,Maximum
+2191,lib.language,66-0,Reward
+2192,lib.language,67-0,To ship
+2193,lib.language,68-0,Jail
+2194,lib.language,69-0,Job
+2195,lib.language,70-0,Password
+2196,lib.language,71-0,GET !!
+2197,lib.language,72-0,Recommended
+2198,lib.language,73-0,Close up
+2199,lib.language,74-0,Action
+2200,lib.language,75-0,Warehouse
+2201,lib.language,76-0,Effect
+2202,lib.language,77-0,Consent
+2203,lib.language,78-0,Agreement
+2204,lib.language,79-0,Shuffle
+2205,lib.language,80-0,Stop
+2206,lib.language,81-0,History
+2207,lib.language,82-0,Input
+2208,lib.language,83-0,Completion
+2209,lib.language,84-0,Dismissal
+2210,lib.language,85-0,Skill
+2211,lib.language,86-0,Pumpkin
+2212,lib.language,87-0,Removal
+2213,lib.language,88-0,Purchase
+2214,lib.language,89-0,Sale
+2215,lib.language,90-0,LVUP
+2216,lib.language,91-0,Zoom
+2217,lib.language,92-0,Information
+2218,text,841-1,Capture
+2219,lib.language,298-0,Loading Advert
+2220,text,842-1,Hmm
+2221,text,843-1,...
+2222,text,844-1,I'm going home
+2223,text,845-1,It's crowded
+2224,text,846-1,What?!
+2225,text,847-1,I'll be back
+2226,text,848-1,Nice place
+2227,text,849-1,Nice scenery
+2228,text,850-1,Yum!
+2229,text,851-1,Delicious!
+2230,text,852-1,Nice!
+2231,text,853-1,Yay!
+2232,text,854-1,Woohoo!
+2233,text,855-1,What's this?!
+2234,text,856-1,Impossible...
+2235,text,857-1,Wow!
+2236,text,858-1,I'm satisfied
+2237,text,859-1,I'm impressed
+2238,text,860-1,Awesome!
+2239,text,861-1,Love it!
+2240,text,862-1,Okay!
+2241,text,863-1,Mmmmm!
+2242,text,864-1,This is it!
+2243,text,865-1,Found it!
+2244,text,866-1,May I help you?
+2245,text,867-1,Hello
+2246,text,868-1,Welcome!
+2247,text,869-1,Come again!
+2248,text,870-1,Thanks!
+2249,text,871-1,Great
+2250,text,872-1,I want it!
+2251,text,873-1,Chomp chomp
+2252,text,874-1,Om-nom nom
+2253,text,875-1,Closing time?
+2254,text,876-1,Oh!
+2255,text,877-1,Woah!
+2256,text,878-1,Wow!
+2257,text,879-1,Chew chew
+2258,text,880-1,Kachink
+2259,text,881-1,Whew
+2260,text,882-1,What a relief
+2261,text,883-1,Can't leave
+2262,text,884-1,How pretty!
+2263,text,885-1,Wonderful
+2264,text,886-1,Feels good
+2265,text,887-1,Hello?
+2266,text,888-1,La la la ♪
+2267,text,889-1,Let's share to get it. 
+2268,text,890-1,Let's Take a screenshot of the game and share it to your friends to get the special shops.
+2269,text,891-1,[ OK ]
+2270,text,892-1,You can get the shop for free.
+2271,lib.language,20-0,Your reward is here!
+2272,lib.language,299-0,After this, ads video will be played.
+2273,lib.language,300-0,After this, an offerwall is shown up.
+2274,lib.language,301-0,We're having\na currency sale.
+2275,lib.language,302-0,Recieve Data
+2276,lib.language,303-0,Enter Code
+2277,lib.language,304-0,Last updated <0><br> We've found data associated with your Kairo's account. <br> Do you want to restore with this data?
+2278,lib.language,305-0,Find from<br>KairoLand's friend.
+2279,lib.language,308-0,Demo
+2280,lib.language,309-0,Well done!<br>You've finished the Demo version.
+2281,lib.language,93-0,Restore
+2282,text,893-1,Receiving data
+2283,text,894-1,Data received.
+2284,text,895-1,You'll need stairways to allow customers to go from one floor to another.<tab>Stairs are very important, so be careful where you build them.<tab>You can use the <btn=6,0> to flip the direction that a stairway faces.
+2285,text,896-1,You successfully upgraded the store's stats by adding a new service.<tab>But doing that also increases the store's maintenance costs.<tab>If you find that the maintenance costs are too high, select a service and press <btn=6,0>.
+2286,lib.language,306-0,Press <btn=10> Button to enter Cursor Mode.<br>Move the cursor with <btn=16,1>/<btn=29,0> and press<br> <btn=3>/<btn=0> as an alternative to tapping the touch screen.<br>Press the <btn=10> Button again to exit this mode.
+2287,lib.language,307-0,Please restart the software.
+2288,text,897-1,To build a hallway, press <btn=0,0> where you want to start building, then <btn=16,1>/<btn=29,0> to expand.
+2289,text,898-1,Press <btn=0,0> to add.
+2290,lib.language,310-0,Preparing system...
+2291,lib.language,311-0,Save data is corrupted. <br>Try to restore it?
+2292,lib.language,312-0,Restore failed.
+2293,lib.language,313-0,Delete the corrupted data and<br>start a new game?
+2294,lib.language,314-0,Please close the game.
+2295,lib.language,315-0,Press <btn=10> Button to enter Cursor Mode.<br>Move the cursor with <btn=16,1>/<btn=29,0><br>and press <btn=3>/<btn=0> to select.<br>Press the <btn=10> Button again to exit this mode.
+2296,text,899-1,Boss?<tab>It looks like one of our stores can now go up in level.<tab>Let's select that store.
+2297,lib.language,317-0,Inquiry support code
+2298,text,900-1,SALE
+2299,text,901-1,OPEN
+2300,text,902-1,COMBO
+2301,text,903-1,NO PATH
+2302,text,904-1,COMPATIBLE
+2303,text,905-1,To Res. Area
+2304,text,906-1,To Office Area
+2305,text,907-1,To Park 
+2306,text,908-1,To Mall
+2307,text,909-1,To Rival Mall
+2308,text,910-1,Pop
+2309,text,911-1,Rep UP
+2310,text,912-1,Sold Out
+2311,text,913-1,Closed
+2312,text,914-1,Gulp...
+2313,text,915-1,Abv
+2314,text,916-1,Undr
+2315,text,917-1,L/R
+2316,text,918-1,Upgr.
+2317,text,919-1,UP
+2318,text,920-1,Here!
+2319,text,921-1,Received!
+2320,text,922-1,Hire me!
+2321,text,923-1,1 sq.
+2322,text,924-1,2 sq.
+2323,text,925-1,3 sq.
+2324,text,926-1,4 sq.
+2325,text,927-1,LEVEL UP!!
+2326,text,928-1,NEW
+2327,text,929-1,Mall News
+2328,text,930-1,Try #
+2329,text,931-1,Recent Sales
+2330,text,932-1,Using Rival Mall
+2331,text,933-1,LEVEL UP
+2332,text,934-1,Quality
+2333,text,935-1,Price
+2334,text,936-1,Rep
+2335,text,937-1,Maint
+2336,text,938-1,Stock
+2337,text,939-1,more people to level up
+2338,text,940-1,New High Score!
+2339,text,941-1,Yay!
+2340,text,942-1,Hi!
+2341,text,943-1,Congrats!
+2342,text,944-1,Mall Ranking
+2343,text,945-1,Summer Sales
+2344,text,946-1,Holiday Sales
+2345,text,947-1,Econ
+2346,text,948-1,FEVER
+2347,text,949-1,Depr
+2348,text,950-1,Recess
+2349,text,951-1,Good
+2350,text,952-1,Bubble
+2351,text,953-1,This Month's Sales
+2352,text,954-1,Econ: 
+2353,text,955-1,Customers:
+2354,text,956-1,Yearly:

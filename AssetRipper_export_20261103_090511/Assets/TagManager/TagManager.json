@@ -1,0 +1,44 @@
+{
+	"m_Layers": [
+		"Default",
+		"TransparentFX",
+		"Ignore Raycast",
+		"",
+		"Water",
+		"UI",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"m_SortingLayers": [
+		{
+			"m_Locked": false,
+			"m_Name": "Default",
+			"m_UniqueID": 0
+		}
+	],
+	"m_Tags": []
+}
